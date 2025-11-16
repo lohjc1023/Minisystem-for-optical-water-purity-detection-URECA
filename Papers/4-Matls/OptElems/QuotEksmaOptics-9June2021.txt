@@ -1,0 +1,134 @@
+From:	Beatri?? Siauryt? <b.siauryte@eksmaoptics.com>
+Sent:	Wednesday, 9 June 2021 5:08 PM
+To:	Poenar Daniel Puiu (Assoc Prof)
+Subject:	RE: Request for custom product
+Attachments:	FS_veid_d25,4x6_T_280-400, i0.pdf; FS_veid_d25,4x6_T_260-380_i0.pdf
+
+Dear Daniel Poenar,
+
+In this case we can offer our standard mirrors from stock 082-2638-i0 or 082-2840-i0-45. Please find the transmission curves of these mirrors as attached and our quotation E210609BS1 as follows:
+
+1. 082-2638-i0 UVFS flat mirror d25.4x6mm, one side SQ 20-10s/d, SF l/10@633nm, coated HR>99%@260-380nm, AOI=0deg.
+Qty.: 1 pc. 155 EUR/pc. 
+Lead time: from stock.
+
+2. 082-2840-i0-45 UVFS flat mirror d25.4x6mm, SQ 20-10s/d, SF l/10@633nm, coated HR>99%@280-400nm, 
+AOI=0-45deg, LDT>1J/cm2, 10ns, 10Hz @1064nm.
+Qty.: 1 pc. 98 EUR/pc. 
+Lead time: from stock.
+
+3. 093-3315 UVFS pl mirror 25.4x25.4x6 Al+protection
+Qty.: 1 pc. 45 EUR/pc. 
+Lead time: ~4 weeks ARO.
+
+Price: ex-works Vilnius.
+Freight charges: 46 EUR by DHL.
+Payment: within 30 days after invoice date.
+Quotation is valid for 90 days.
+
+Best regards,
+Beatri?? Siauryt? 
+Sales Engineer 
+   
+
+EKSMA Optics
+Mokslininku str. 11, LT-08412 Vilnius, LITHUANIA
+Tel: +370 5 2729900
+Direct: +370 5 272 9266
+Fax: +370 5 2729299
+www.eksmaoptics.com
+
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, June 8, 2021 7:09 AM 
+To: Beatri?? Siauryt? <b.siauryte@eksmaoptics.com> 
+Subject: RE: Request for custom product
+
+                                             Dear Ms. Beatri?e,
+               Thank you for your quick reply! Then in this case you can put in the quotation what you can offer/have 
+available (the dichroic filter with the lowest wavelength of 280 nm for the UV reflection region, and the 093-
+3315-Protected Al mirror), and I will discuss with my other project collaborators.
+               Thank you very much for your kind help and am looking forward for your quotation!
+               With best wishes,
+               Daniel
+
+From: Beatri?? Siauryt? <b.siauryte@eksmaoptics.com>  
+Sent: Monday, 7 June 2021 10:36 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Request for custom product
+
+Dear Daniel Poenar, 
+
+Thank you for your request. Unfortunately, we can only offer broadband coatings from 280 nm. Would you still 
+need a quotation for 093-3315-Protected Al mirror?
+
+Best regards,
+Beatri?? Siauryt? 
+Sales Engineer 
+   
+
+EKSMA Optics
+Mokslininku str. 11, LT-08412 Vilnius, LITHUANIA
+Tel: +370 5 2729900
+Direct: +370 5 272 9266
+Fax: +370 5 2729299
+www.eksmaoptics.com
+
+From: epdpuiu@ntu.edu.sg <epdpuiu@ntu.edu.sg>  
+Sent: Monday, June 7, 2021 11:57 AM 
+To: info@eksmaoptics.com 
+Subject: Request for custom product
+
+Request for custom product
+ 
+ 
+
+
+
+
+
+
+
+First name: POENAR
+Last name: Daniel
+Email: epdpuiu@ntu.edu.sg
+Company: EEE School, NTU
+City: Singapore
+Country: Singapore
+State: 
+Phone: 
+Created: 2021-06-07 11:56:30
+Inquiry:
+Dear Lady/Sir,  
+I would like to inquire if you have/can design & fabricate a UV-vis long-pass dichroic 
+mirror, i.e. with high reflectivity (R>90%) in the UV (between say 230 nm and 400 nm) 
+and high transmissivity (T>90%) in the visible range (between approx.380 or 400 nm and 
+750...780 nm) (all at normal incidence i.e. AOI=0°.  
+If this could be too difficult to design/fabricate, then can relax somewhat the specs, e.g.  
+- the AOI can be 45° instead, and/or  
+- the wavelengths range could be 250...380 nm for hi R and 380...550 nm for hi T  
+ 
+If it is possible for you to make it, please kindly provide me a quotation (in which you can 
+also add the product 093-3315-Protected Al mirror), and also include the packaging & 
+shipping costs as well.  
+Thank you for your help and am looking forward for your feedback.  
+With best wishes,  
+Daniel
+ 
+
+
+
+
+
+
+
+
+
+ 
+EKSMA Optics, UAB 
+Address: Mokslininku str. 11 LT-08412 Vilnius, Lithuania 
+Phone: (+370) 5 272 99 00 Fax: (+370) 5 272 92 99 E-mail: info@eksmaoptics.com 
+ 
+CONFIDENTIALITY: This email is intended solely for the person(s) named and may be confidential and/or 
+privileged. If you are not the intended recipient, please delete it, notify us and do not copy, use, or disclose its 
+contents.  
+Towards a sustainable earth: Print only when necessary. Thank you. 

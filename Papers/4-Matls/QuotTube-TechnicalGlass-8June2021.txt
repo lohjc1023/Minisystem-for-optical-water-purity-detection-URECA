@@ -1,0 +1,56 @@
+From:	Jack Watson <jwatson@tgpohio.com>
+Sent:	Wednesday, 9 June 2021 4:46 AM
+To:	Poenar Daniel Puiu (Assoc Prof)
+Subject:	RE: Website Contact Request - Inquiry & Quotation Request
+Attachments:	060821 nanyang.docx
+
+Poenar
+
+Here is the quotation that you requested. Please keep in mind that these rectangular tubes are manufactured by welding fused plate together. There will be some distortion in the corners and these are in way to be confused with optical cells.
+Let me know if you have any questions.
+
+
+Jack Watson
+Technical Glass Products
+881 Callendar Blvd.
+Painesville Ohio 44077
+Phone: 440-639-6399
+Fax: 440 639-1292
+Email: jwatson@tgpohio.com
+www.technicalglass.com
+
+
+
+-----Original Message-----
+From: noreply=technicalglass.com@plesk-1.totalwebpartners.com <noreply=technicalglass.com@plesk-
+1.totalwebpartners.com> On Behalf Of Technical Glass Products
+Sent: Friday, June 4, 2021 3:08 AM
+To: TGP <tgp@tgpohio.com>; admin@totalwebpartners.com
+Subject: Website Contact Request - Inquiry & Quotation Request
+
+From: POENAR Daniel Puiu <epdpuiu@ntu.edu.sg>
+Subject: Inquiry & Quotation Request
+Company: EEE School - Nanyang Technological University (NTU), Singapore
+Phone: +65-67904237
+
+Message Body:
+Dear Lady/Sir,
+	My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical & Electronical Engineering (EEE) of the Nanyang Technology University (NTU), Singapore.
+	I am now working on a project proposal for whose budget configuration I need to quickly gather quotations for the required materials & consumables. I saw on your website that you fabricate rectangular tubing made of borosilicate glass, quartz or fused quartz/silica, and on one of your website pages you indicate the available products (from RT2X4 to RT8X12). However, I would like to inquire if it 
+would be in principle possible for you to produce a (very) small batch of rectangular tubing with different specifications as listed below, and if yes to please kindly provide me a quotation. The desired specs are:
+
+       Material: Corning HFPS7980 Fused Silica Ingot (whose optical characteristics you give in your website at https://technicalglass.com/fused_quartz_transmission/ )
+       Dimensions: H= 15 mm, W= 45 mm, L= 60 mm.  However, please note that these values are not cast in stone/not very critical. Hence, if you (already) have internal standards or moulds or processes for some other values which are close enough, then please feel free to change these values to the closest ones to those indicated above (if this is the case, please choose the slightly larger value closest to each indicated one).
+	Regarding the length L of each piece: If your standards require fabrication and/or quotation per foot, then again do as you do as per usual, but in this case then please also include in the quotation the cost to cut the resulting ingot/tube in pieces of the indicated length (or, again, whatever other length value you may have set in your production closest to the desired one whose value of course then please indicate specifically).
+       Wall thickness: 2 mm or -again- the value you deem necessary/compatible with your fabrication process for the previous dimensions. For instance, if you can have only thicknesses of say 1.75 mm and 2.51 mm because of your process constraints -just as two random value examples from the top of my head- then again please chose the slightly larger one. So again, please feel free to indicate your preferred thickness value closest (preferably the slightly larger one) to the one indicated above.
+        Quantity: 10 pcs (of the indicated length) OR per foot or whatever your necessary internal standard's min. quantity, as stated above.
+
+Finally, please also add in the quotation the costs for both packaging and shipment.
+
+	Thank you for your time and consideration, and am looking forward for your quick feedback with the quotation!
+	With best wishes,
+	Poenar Daniel
+
+-- 
+This e-mail was sent from a contact form on Technical Glass Products (https://technicalglass.com)
+

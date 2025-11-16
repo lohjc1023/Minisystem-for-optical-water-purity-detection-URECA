@@ -1,0 +1,82 @@
+﻿https://tech-led.com/en/product/photodiode/avalanche-photodiode/
+
+https://www.excelitas.com/product-category/large-area-uv-enhanced-apds
+
+https://www.broadcom.com/products/optical-sensors/silicon-photomultiplier-sipm
+
+https://www.eoc-inc.com/uv-photodiodes/silicon-carbide-uv-avalanche-photodiode-apd/
+
+https://www.lasercomponents.com/uk/lasers/laser-diodes/
+https://www.lasercomponents.com/de-en/product/silicon-apd-arrays/
+They also have APDs
+Singapore distributor:	Wavelength Opto-Electronic (S) Pte. Ltd.
+Blk 2	Bukit Batok Street 24,
+#06-03, Skytech Bld, Singapore 659480
+Mr. Robert Huang
+info@wavelength-tech.com
+Tel.: +65 656 496 24	Fax: +65 656 438 62
+
+Keyword: Blue-sensitive APD (try also linear array)
+
+THORLABS:
+Si avalanche photodetectors	https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6686
+
+APD410A2 - Si Variable-Gain Avalanche Detector, Temperature Compensated, UV Enhanced, 200 - 1000 nm, DC - 10 MHz, 8-32 Taps - 	$1,327.76
+https://www.thorlabs.com/thorproduct.cfm?partnumber=APD410A2
+
+APD440A2 - Si Variable-Gain Avalanche Detector, Temperature Compensated, 200 - 1000 nm, DC - 100 kHz, Universal 8-32 / M4 Taps  - $1,184.50
+https://www.thorlabs.com/thorproduct.cfm?partnumber=APD440A2
+-------------------------------------------------------------------------------------
+HAMAMATSU
+https://www.hamamatsu.com/jp/en/product/optical-sensors/apd/index.html
+
+S3590-19 (violet sensitivity enhanced) - large area PIN PD
+
+S1336-BQ: 190-1100 nm;
+R=0.125 A/W@190 nm;  0.18 A/W @ 400 nm, peak=0.5 A/W @ 960 nm; 
+Ireverse= 20 pA for 1.21 mm2 (S1337-21 has a slightly better response; Ireverse= 500 pA but 18x18 mm2)
+S12698 - f0r UV monitoring (lack any resin):
+ R=0.09 A/W@190 nm; 0.17 A/W @ 400 nm, peak=0.36 A/W @ 775 nm
+S12271 -PIN: 
+R=0.1 A/W@190 nm; 0.17 A/W @ 400 nm, peak=0.52 A/W @ 960 nm
+Linear array: S4111-XXQ, with XX= the nr. of elem.s: 16, 35 or 46; R=0.09 A/W@190 nm; 0.2 A/W @ 400 nm, peak=0.58 A/W @ 960 nm; Ireverse= 5, 10, 50 pA;
+
+Violet sensitivity enhanced: S5973-02, S9195, S3994-01 (0.4 mm diam, 5x5 & 10x10 mm2); 
+R= not indicated at 190 nm; 0.28 A/W @ 400 nm, with peaks of 0.41 A/W @ 760 nm, 0.48 A/W @ 840 nm & 0.63 A/W @ 960 nm, respectively
+
+For VUV monitor- S8552 & S8553: 
+R=0.07 A/W@190 nm; 0.13 A/W @ 230 nm (local peak), 0.175 A/W @ 400 nm, peak=0.55 A/W @ 760 nm; Ireverse= 1 & 5 nA for 10x10 & 18x18 mm2	
+For VUV detect.(Hi reliabil.): S10043 but has responsivity much lower than the previous ones
+S12742-XXX have narrow bandwidth response with peak at XXX= 220, 254, 275 nm
+TE-cooled PD: S2592/S3477-04: Ireverse= 10 pA; R=0.1 A/W@190 nm; 0.15 A/W @ 400 nm, peak=0.42 A/W @ 960 nm
+
+PD with transimped amplif. & TE cooled: S9295
+
+Si APD arrays: 	S15249: 16 elem.s, 350-10o0 nm with peak @ 620 nm; Irev= 0.3 nA
+		S8550-02: 4x8 elem.s, 320-100 nm with peak @ 600 nm;  Irev= 1 nA
+
+Hamamatsu S12053-10 | 1.0mm UV-VIS (200-1000nm), Si APD #58-261 - Unavailable in Current Location Under Edmund
+=====================================================
+https://osioptoelectronics.com/standard-products/silicon-photodiodes/uv-enhanced-photodiodes/planar-diffused-photodiode.aspx
+UV-DQ:  R=0.12 A/W@200 nm; 0.2 A/W @ 400 nm, 0.33 A/W @ 633 nm, peak=0.5 A/W @ 980 nm
+UV-EQ: R=0.12 A/W@200 nm; 0.2 A/W @ 400 nm, 0.33 A/W @ 633 nm, peak=0.36 A/W @ 720 nm
+both with areas from 2.4x2.4 to 10x10 mm2; quartz windows
+- Lin arrays APDs - A5V-35UV is UV enhanced, with 35 elements; R=0.09 A/W@200 nm; 0.26 A/W @ 400 nm, peak=0.53 A/W @ 850 nm
+- Their APDs work only from 400 nm onwards
+- THey have PD+filter combinations series, but only from 300 nm onwards
+
+-----------------------------------------------------------------------------------------------------------------------------
+M. Yao, G. Shah and J. Fang, "Highly Sensitive and Miniaturized Fluorescence Detection System with an Autonomous Capillary Fluid Manipulation Chip", Micromachines 2012, 3, 462-479; doi:10.3390/mi3020462
+[PapersOnlineFluorometer/ChipFluorescDetectAutonomCapillFlow]
+
+"... we have selected a blue/green enhanced 5 mm2 Si photodiode-preamplifier model ODA-6WB-500M, which features a large active area with extremely low noise, and high-sensitivity. The combination detector-preamplifier has a sensitivity of wavelength response at 450 nm, typically 315 V/μW. It operates between 400 nm and 1,100 nm with peak frequency response at 940 nm and features 500 Mohm transimpedance gain. It is easily integrated in an optical housing, and is ideal for fluorescence detection of low-light-level medical diagnostic applications ... The emitter filter is mounted on it to filter the incident fluorescence light"
+--------------------------------------------------------------------------------------
+S8746-01 (Hamamatsu Photodiode) integrated photodiode and amplifier and external op amps (U2A) for DC (constant current) restoration. The S8746-01 combines a large 5.8×5.8mm photodiode and high-performance transimpedance amplifier on a single chip.
+[FluorescDetectAqueousAmmoniaAgric]
+
+A light sensor (TSL238-TCT-ND, Digi-Key) => has approx. lin response from 300 nm peaking at 700 nm
+
+https://www.mouser.sg/new/parallax/parallax-28091-sensor/
+
+https://www.ablic.com/en/semicon/datasheets/sensor/uv-sensor/s-5420/
+Has 2 PDs, one high overall sensitiv, one for vis, subtracting the latter from 1st gives the UV sensor

@@ -1,0 +1,76 @@
+﻿Matls:
+Polyetheretherketone (PEEK) tubing + PMMA chip; 380 nm UV LED (Nichia)
+
+Quartz:
+Friedrich & Dimmock, Inc.	https://fdglass.com/product/clear-fused-quartz-square-tubing/
+	Clear Fused Quartz Square Tube   $34.13 – $217.60
+	Borosilicate Rectangular Tubing	   $12.04 – $169.54. A 10 mm x 40 mm tube with 1.8 mm thick tube is $21.71 per ft.
+	Clear Fused Quartz Rectangular Tube: $44.34 – $151.1. A 10 mm x 22 mm tube with 1.75 mm thick wall is $151.1 per ft.
+2127 Wheaton Avenue, Millville NJ 08332
+TEL: (800) 524-1131 | (856) 825-0305	 FAX: (856) 327-4299
+ sales@fdglass.com
+
+
+Technical Glass Products, Inc. (TGP)	
+https://technicalglass.com/product_pages/specialty_tubing/rectangular_tubing_clear_fused_quartz/
+	8 x 12 mm2 with 1.3 mm thick wall = $112.85 per ft.
+https://technicalglass.com/product_pages/fused_quartz_tubing/
+
+
+Specialty Glass Products:	https://www.sgpinc.com/products/glass-tubing/
+Specialty Glass Products 
+ 2885 Terwood Rd,  Willow Grove, PA 19090 U.S.A.
+Phone: +1 215-659-8400 	Fax: +1 215-659-7217 
+Email:  sales@sgpinc.com 
+	have rectangular tubing, both borosilicate & quartz, but the largest they have (quartz) is 10 mm x 13 mm
+
+VitroCom		https://www.vitrocom.com/categories/view/20/Rectangle-Glass-Tubing
+	R1545 has H = 15 mm, W = 45 mm, L = 30 or 60 mm, but on the website is indicated as made of only Borosilicate glass ($30 or $60, depending on L's value)
+	RT0880 is 8 mm x 80 mm, wall 2.5 mm thick, Borosilicate, $360 for 60 mm length
+Choose from our Standard Product list below or design your own and choose: Sizes, Length, Tolerances, Glass Type (Borosilicate, Clear Fused Quartz, Synthetic Fused Silica, or Other), and End Finish (Snap Cut, Saw Cut, Lapped Ends, Fire Polished Ends, or One End Sealed) using our
+Rectangle Tubing Template
+VitroCom Headquarters - General information: sales@vitrocom.com 	Phone: 973-402-1443 
+VitroCom		8 Morris Avenue	Mountain Lakes, NJ 07046-0125
+Japan/China/Singapore/Taiwan Distributor:
+Arte Glass Associates Co., Ltd.
+56 Rengezocyo Shogoin
+Sakyo-ku
+Kyoto 606-8357 Japan
+PHONE: 81 75 761 2331	FAX: 81 75 761 2333
+sales@arteglass.co.jp
+
+
+https://rayotek.com/tech-specs/material-comparisons.htm
+
+
+E-create technology:	http://www.et-create.com/Clear-Fused-Quartz-Rectangular-Tube-pd41085757.html
+
+Jinzhou City Success quartz glass factory	http://en.quartzglasschina.com/product/11/
+JNC Quartz	http://jncquartz.com/html/en/index.php?ac=article&at=list&tid=46
+LATECH		http://www.latech.com.sg/product/1423894178-Quartz+Tube.html
+
+ZHEJIANG BLISSAM CHEMICAL CO., LTD. 	https://www.blissamquartz.com/?gclid=EAIaIQobChMI2tLfx87f8AIViNeWCh0PHAGpEAMYASAAEgJqHPD_BwE
+
+From papers:
+deep UV silica quartz cuvettes (LEADER LAB®, France
+[FluoromtrPortableFieldDUVLED]
+
+===============================================================
+tgp@tgpohio.com
+
+
+			Dear Lady/Sir,
+	My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical & Electronical Engineering (EEE) of the Nanyang Technology University (NTU), Singapore.
+	I am now working on a project proposal for whose budget configuration I need to quickly gather quotations for the required materials & consumables. I saw on your website that you fabricate rectangular tubing made of borosilicate glass, quartz or fused quartz/silica, and on one of your website pages you indicate the available products (from RT2X4 to RT8X12). However, I would like to inquire if it would be in principle possible for you to produce a (very) small batch of rectangular tubing with different specifications as listed below, and if yes to please kindly provide me a quotation. The desired specs are:
+
+       Material: Corning HFPS7980 Fused Silica Ingot (whose optical characteristics you give in your website at https://technicalglass.com/fused_quartz_transmission/ )
+       Dimensions: H= 15 mm, W= 45 mm, L= 60 mm.  However, please note that these values are not cast in stone/not very critical. Hence, if you (already) have internal standards or moulds or processes for some other values which are close enough, then please feel free to change these values to the closest ones to those indicated above (if this is the case, please choose the slightly larger value closest to each indicated one).
+	Regarding the length L of each piece: If your standards require fabrication and/or quotation per foot, then again do as you do as per usual, but in this case then please also include in the quotation the cost to cut the resulting ingot/tube in pieces of the indicated length (or, again, whatever other length value you may have set in your production closest to the desired one whose value of course then please indicate specifically).
+       Wall thickness: 2 mm or -again- the value you deem necessary/compatible with your fabrication process for the previous dimensions. For instance, if you can have only thicknesses of say 1.75 mm and 2.51 mm because of your process constraints -just as two random value examples from the top of my head- then again please choose the slightly larger one. So again, please feel free to indicate your preferred thickness value closest (preferably the slightly larger one) to the one indicated above.
+        Quantity: 10 pcs (of the indicated length) OR per foot or whatever your necessary internal standard's min. quantity, as stated above.
+
+Finally, please also add in the quotation the costs for both packaging and shipment.
+
+	Thank you for your time and consideration, and am looking forward for your quick feedback with the quotation!
+	With best wishes,
+	Poenar Daniel

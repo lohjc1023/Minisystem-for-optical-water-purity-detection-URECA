@@ -1,0 +1,71 @@
+From:	Matthew J Sydor <Matthew@sydor.com>
+Sent:	Tuesday, 8 June 2021 10:09 AM
+To:	Poenar Daniel Puiu (Assoc Prof); WebSales
+Subject:	RE: [EXTERNAL] - 'epdpuiu@ntu.edu.sg' submitted the form from your 'Contact Us' page
+
+Hi Poenar,
+
+Thanks for reaching out! So we don’t make any filters in our facility, we usually buy them from the filter 
+houses; Hoya, Schneider, Scott, etc. I would recommend reaching out to them to see if they have what 
+you’re looking for. Have you tried Edmund Optics or Thor Labs? 
+
+Let me know and I’d be happy to help you find the filters.
+
+Matthew Sydor
+Program Manager
+ 
+Sydor Optics, Inc 
+31 Jetview Drive, Rochester, NY 14624 
+Office: 585.271.7300 
+Mobile: 585.305.6717
+Email: Matthew@sydor.com
+ITAR Registered - ISO 9001:2015 Certified
+ 
+“Our World is Flat” Custom Flat-Surfaced, Parallel & Wedged Optics
+
+www.sydor.com
+ 
+Information contained herein may be subject to the International Traffic in Arms Regulation (22C.F.R.120-130) of the United States of America. 
+Neither this information, nor any portion of the information contained herein, may be exported, released or disclosed to any foreign entity or 
+foreign national inside or outside of the United States without first obtaining required U.S. Government approval or a validated export license. 
+A violation of the ITAR may be subject to a penalty, and or fine, under 22USC2778. Include this notice with any reproduced section of this 
+document. Diversion contrary to U.S. law is prohibited.
+
+From: Contact Form <contactform@bigcommerce.com>  
+Sent: Monday, June 07, 2021 6:05 AM 
+To: WebSales <websales@Sydor.com> 
+Subject: [EXTERNAL] - 'epdpuiu@ntu.edu.sg' submitted the form from your 'Contact Us' page
+
+'epdpuiu@ntu.edu.sg' submitted the form from your 
+'Contact Us' page
+A user has submitted the contact form on your store.
+Here are their details:
+Full Name:
+Poenar Daniel
+Email Address:
+epdpuiu@ntu.edu.sg
+Company Name:
+EEE School, NTU, Singapore
+Phone Number:
+
+Order Number:
+
+Dear Lady/Sir, 
+My name is Poenar Daniel and I am an Assoc.Prof. in the EEE School of NTU. I would like to know if you have 
+available or if it is possible for you to fabricate a UV-vis long-pass dichroic mirror, although maybe a more 
+appropriate name would be edge filter because the ideal desired operation should be for an AOI of 0°, NOT 45° as 
+is typical with normal applications for dichroic mirrors (e.g. in a filter cube).  
+The specs for this filter are: high reflectivity (R>90%) in the UV (between 230 nm and 380 or400 nm) and high 
+transmissivity (T>90%) in the visible range (between approx.380 or 400 nm and 750...780 nm). If the latter is too 
+tough (i.e. too difficult/impossible to reconcile both rejection & transmission windows requirements simultaneously), 
+the vis range transmission window's long wavelength limit can be reduced down to 600 nm or even 550 nm if really 
+necessary. 
+If you have/can do it, then please kindly send me a quotation for it, including the cost of packaging & shipping. 
+Thank you for your help and am looking forward for your quick feedback ! 
+With best wishes, 
+Poenar Daniel 
+P.S.: What is not transmitted should be reflected & viceversa, i.e. ideally no absorption at all wavelengths.
+Sydor Optics Online Store  
+https://shopsydor.com/
+ 
+ 

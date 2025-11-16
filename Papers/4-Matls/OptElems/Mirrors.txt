@@ -1,0 +1,103 @@
+OUR Specs: 220...370 nm, or at least 230...350 nm
+=====================================
+EDMUND:
+Diam = 25 mm	Ravg =78% @ 120 - 125nm Ravg =85% @ 120 - 600nm
+Enhanced Aluminum (120-600nm)	Thick = 6 mm	#33-913	
+S$372.00 (Qty 6+: S$325.50) - FLAT mirror
+
+========================================================
+THORLABS	https://www.thorlabs.com/
+UV-Enhanced Aluminum (-F01): R=88% at 250 nm & R=92% at 380 nm
+PFSQ20-03-F01 2" x 2" UV-Enhanced Aluminum Mirror $123.36
+
+Longpass Dichroic Mirrors/Beamsplitters: 425 nm Cut-On Wavelength
+Transmission Band (Tabs > 85%, Tavg > 90%) 440 - 800 nm 
+Reflection Band (Rabs > 90%, Ravg > 95%) 380 - 410 nm; R=70%@300 nm, R=20%@250 nm!
+DMLP425R 25 mm x 36 mm Longpass Dichroic Mirror, 425 nm Cut-On $254.30 
+
+
+
+Nd:YAG Laser Mirrors, 3rd Harmonic
+Wavelength Range: 349 - 355 nm- but actually have R>99.2% above 345 nm (probabil R=99% at 340 nm)
+Ravg > 99.5% for S and P Polarization
+NB07-K08 Ø19 mm Nd:YAG Mirror, 349 - 355 nm, 0° to 45° AOI  $128.77 
+NB1-K08 Ø1" Nd:YAG Mirror, 349 - 355 nm, 0° to 45° AOI  $147.17 
+
+
+Nd:YAG Laser Mirrors, 4th Harmonic
+Wavelength Range: 262 - 266 nm
+Ravg > 99.0% for S and P Polarization => R>99.5% for S-pol between 259...274 nm
+NB07-K04 Ø19 mm Nd:YAG Mirror, 262 - 266 nm, 0° to 45° AOI  $128.77 
+NB1-K04 Ø1" Nd:YAG Mirror, 262 - 266 nm, 0° to 45° AOI  $147.17 
+
+
+Ar-Ion Laser Line Mirror: 300 - 308 nm
+S Polarization: Ravg > 99.5% (300 - 308 nm) - at 45° R>99% between 290...315 nm
+P Polarization: Ravg > 98.0% (300 - 308 nm)
+NB07-K05 Ø19 mm Ar-Ion Laser Line Mirror, 300 - 308 nm, 0° to 45° AOI  $128.77 
+NB1-K05 Ø1" Ar-Ion Laser Line Mirror, 300 - 308 nm, 0° to 45° AOI  $147.17 
+
+Ar-Ion Laser Line Mirrors: 333 - 364 nm
+Specs at 45° 
+	- S Polarization: R > 99.0% at 352 nm - actually R>96% between 305...405 nm
+	- P Polarization: R > 98.7% at 352 nm
+Specs at 0°: Unpolarized: R > 99.5% at 352 nm
+NB07-K07 Ø19 mm Ar-Ion Laser Line Mirror, 333 - 364 nm, 0° to 45° AOI  $128.77 
+NB1-K07 Ø1" Ar-Ion Laser Line Mirror, 333 - 364 nm, 0° to 45° AOI  $147.17 
+
+High-Power Mirrors for Picosecond Ytterbium Lasers
+UM10-Y3HP 335 - 375 nm (3rd Harmonic):
+	Rabs > 99% (S- and P-Pol.)  - for S-pol at 45° R= v. high between 320...400 nm
+UM10-Y4HP 250 - 272 nm (4th Harmonic):
+	Rabs > 99% (S-Pol.) - for S-pol at 45° R= v. high between 240...290 nm
+	Rabs > 98.5% (P-Pol.)
+UM10-Y3HP Ø1" Picosecond Yb Laser Line Mirror, Third Harmonic, 335 - 375 nm  $190.55 
+UM10-Y4HP Ø1" Picosecond Yb Laser Line Mirror, Fourth Harmonic, 250 - 272 nm $190.55 
+=============================================================
+CVI:
+MAXBRITE Broadband Mirrors - Ravg = 98% at 0° – 45° UNP (unprotected??)
+MPQ-245-390-2506M: 245-390 nm, 25 mm size, $159
+
+PAUV: Protected Aluminum Flat Mirrors
+Average Reflectance: = 85% at 250 – 600 nm
+PAUV-PM-1025-C, 25.4 mm size, $79
+
+VUVA: Vacuum UV Aluminum Mirror - R > 85% at 157 nm by design
+VUVA-PM-1025-UV, 25.4 mm size; $309
+
+DUVA: Deep UV Aluminum Mirrrors
+Low power, good reflectivity broadband metal mirror for deep UV through near-IR; 193 - 1200 nm. Designed to achieve > 90% reflectivity at 193 nm, these mirrors use a high density aluminum coating with dielectric overcoat to maximize UV reflectivity and durability, while maintaining > 85% average reflectivity for 400 - 1200 nm.
+Reflectance: R > 90% at 193 nm, Ravg = 85% at 400 – 1200 nm
+DUVA-PM-1025-UV, 25.4 mm size; $249
+
+http://rmico.com/high-reflection-coatings
+
+Shape Optics Technologies Pte. Ltd is an optical engineering company in Singapore. We offer customised optical design service in laser optics, imaging optics, LED optics, optics fiber, illumination optics, and optical coating. 
+https://sot.com.sg/
+
+Acton Optics and Coatings
+https://www.actonoptics.com/products/al-mgf2-mirrors
+
+https://www.esourceoptics.com/vuvmirrors.html
+
+https://www.layertec.de/en/capabilities/coatings/metallic/
+Contact Phone: +49 - (0)36453 - 744-0	 Fax: +49 - (0)36453 - 744-40
+ Email: info@layertec.de
+
+https://abrisatechnologies.com/products-services/coating-solutions/coatings-capabilities/mirrors-and-metals/
+
+https://www.geomatec.com/products-and-solutions/optical-control/optical-reflection-transmission-separation-synthesis/metallic-mirror-and-hr-coatings/
+
+https://www.global-optosigma.com/en_jp/
+Also sell software "Essential Macleod"
+
+https://www.alluxa.com/?nowprocket=1
+
+
+
+
+
+
+
+
+

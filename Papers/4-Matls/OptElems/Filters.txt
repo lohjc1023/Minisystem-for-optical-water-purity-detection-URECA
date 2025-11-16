@@ -1,0 +1,77 @@
+Specs (Our source/LEDs): 235, 255, 275 nm, 340 nm
+We need:  UV-vis long-pass dichroic mirror, i.e. with high reflectivity (R>90%) in the UV (between say 230 nm and 400 nm) and high transmissivity (T>90%)  in the visible range (between approx.380 or 400 nm and 750...780 nm)
+==============================================
+OmegaFilters	https://www.omegafilters.com/product-types/uv-filters
+
+==============================================
+THORLABS:
+ Fluorescence Imaging Filters
+MD416 BFP Dichroic Filter, Refl. Band = 360-407 nm, Trans. Band = 425-575 nm  $236.98 
+The reflection region extends down to 300 nm (no data points below it), but with a spike with T>10% up to 20% between 309.5...311.5 nm, and also with T going from 34% to 5% between 300...302.5 nm.
+
+UV/VIS Bandpass & Laser Line Filters: 340 - 694.3 nm Center Wavelength
+ FB340-10 Ø1" Bandpass Filter, CWL = 340 ± 2 nm, FWHM = 10 ± 2 nm  $146.08 
+
+ThorLabs China:
+Sales
+P: +86 (0) 21-60561122	F: +86 (0) 21-32513480
+E: chinasales@thorlabs.com
+Support
+P: +86 (0) 21-60561122	F: +86 (0) 21-32513480
+E: techsupport-cn@thorlabs.com
+========================================
+EDMUND:
+400 nm, 12.5 x 17.6mm, Dichroic Longpass Filter	Stock #69-875   S$162.75
+
+
+EKSMA Optics:	https://eksmaoptics.com/
+BroadBand and Laser Line Mirrors for AOI from 0 to 45°
+082-2840-i0-45  Substr.=UVFS (fused silica)  D=25.4 mm  thick = 6 mm  R>99.0%  AOI=0-45°  280-400 nm  98 €  5 - 7 days 
+At 45°  R shifts to shorter wavelengths although decreases somewhat in value.
+We will need square/rectangle.
+
+Protected Aluminium Mirrors:
+092-3015  Substr.=UVFS  pl/pl  ø 25.4 mm  6 mm  -  35 €  5 - 6 days   
+093-3315  Substr.=UVFS  pl/pl  25.4 x 25.4 mm  6 mm  -  45 €  Request  
+They also have plano-concave mirrors (100...150 €)
+
+
+https://www.shanghai-optics.com/components/optical-filters/dichroic-filter/
+
+https://www.knightoptical.com/custom/optical-components/uv-vis-nir-optics/filters/longpass-filters/
+
+https://www.chroma.com/company/contact
+
+https://www.iridian.ca/product-category/raman-filters/raman-edge-pass-filters-2/raman-long-edge/
+
+https://www.coursencoating.com/uv-filters
+
+https://www.sydor.com/product/optical-filters/
+
+Contin Variable filters: 
+https://www.deltaopticalthinfilm.com/linear-variable-filters/
+https://www.viavisolutions.com/en-us/osp/products/linear-variable-filters#resources	+> they also have microlens arrays
+
+Optical Coatings Japan
+https://www.ocj.co.jp/en/products/tabid/105/Default.aspx
+Hv contin variable lin. filter, Also have dichroic mirror & long-pass edge filter
+
+https://www.lasercomponents.com/de-en/product/long-passshort-pass-mirror-coating/
+They also have APDs, but with peak response at 850 nm and very little at 400 nm.
+
+Research Electro-Optics (REO) Inc.’s fabrication technology enables the manufacture of extremely small filters that can be below 1-mm physical dimension and allows the fabrication of linear variable filters as small as 1 × 3 mm on wafer-sized substrates
+
+From papers:
+dichroic filter (PIXELTEQ, USA) working as low pass for 647 nm wavelength light
+[FluoromtrPortableDetectAlgae]
+
+
+			Dear Lady/Sir,
+	My name is Poenar Daniel and I am an Assoc.Prof. in the EEE School of NTU. I would like to know if you have available or if it is possible for you to fabricate a UV-vis long-pass dichroic mirror, although maybe a more appropriate name would be edge filter because the ideal desired operation should be for an AOI of 0°, NOT 45° as is typical with normal applications for dichroic mirrors (e.g. in a filter cube). 
+	The specs for this filter are: high reflectivity (R>90%) in the UV (between 230 nm and 380 or400 nm) and high transmissivity (T>90%)  in the visible range (between approx.380 or 400 nm and 750...780 nm).  If the latter is too tough (i.e. too difficult/impossible to reconcile both rejection & transmission windows requirements simultaneously), the vis range transmission window's long wavelength limit can be reduced down to 600 nm or even 550 nm if really necessary.
+	If you have/can do it, then please kindly send me a quotation for it, including the cost of packaging & shipping.
+	Thank you for your help and am looking forward for your quick feedback !
+	With best wishes,
+	Poenar Daniel
+P.S.: What is not transmitted should be reflected & viceversa, i.e. ideally no absorption at all wavelengths.
+

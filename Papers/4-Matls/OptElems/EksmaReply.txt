@@ -1,0 +1,86 @@
+From:	Poenar Daniel Puiu (Assoc Prof)
+Sent:	Tuesday, 8 June 2021 12:09 PM
+To:	Beatri?? Siauryt?
+Subject:	RE: Request for custom product
+
+                                             Dear Ms. Beatri?e,
+               Thank you for your quick reply! Then in this case you can put in the quotation what you can offer/have available (the dichroic filter with the lowest wavelength of 280 nm for the UV reflection region, and the 093-3315-Protected Al mirror), and I will discuss with my other project collaborators.
+               Thank you very much for your kind help and am looking forward for your quotation!
+               With best wishes,
+               Daniel
+
+From: Beatri?? Siauryt? <b.siauryte@eksmaoptics.com>  
+Sent: Monday, 7 June 2021 10:36 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Request for custom product
+
+Dear Daniel Poenar, 
+
+Thank you for your request. Unfortunately, we can only offer broadband coatings from 280 nm. Would you still need a quotation for 093-3315-Protected Al mirror?
+
+Best regards,
+Beatri?? Siauryt? 
+Sales Engineer 
+   
+
+EKSMA Optics
+Mokslininku str. 11, LT-08412 Vilnius, LITHUANIA
+Tel: +370 5 2729900
+Direct: +370 5 272 9266
+Fax: +370 5 2729299
+www.eksmaoptics.com
+
+From: epdpuiu@ntu.edu.sg <epdpuiu@ntu.edu.sg>  
+Sent: Monday, June 7, 2021 11:57 AM 
+To: info@eksmaoptics.com 
+Subject: Request for custom product
+
+Request for custom product
+ 
+ 
+
+
+
+
+
+
+
+First name: POENAR
+Last name: Daniel
+Email: epdpuiu@ntu.edu.sg
+Company: EEE School, NTU
+City: Singapore
+Country: Singapore
+State: 
+Phone: 
+Created: 2021-06-07 11:56:30
+Inquiry:
+Dear Lady/Sir,  
+I would like to inquire if you have/can design & fabricate a UV-vis long-pass dichroic 
+mirror, i.e. with high reflectivity (R>90%) in the UV (between say 230 nm and 400 nm) 
+and high transmissivity (T>90%) in the visible range (between approx.380 or 400 nm and 
+750...780 nm) (all at normal incidence i.e. AOI=0°.  
+If this could be too difficult to design/fabricate, then can relax somewhat the specs, e.g.  
+- the AOI can be 45° instead, and/or  
+- the wavelengths range could be 250...380 nm for hi R and 380...550 nm for hi T  
+ 
+If it is possible for you to make it, please kindly provide me a quotation (in which you can 
+also add the product 093-3315-Protected Al mirror), and also include the packaging & 
+shipping costs as well.  
+Thank you for your help and am looking forward for your feedback.  
+With best wishes,  
+Daniel
+ 
+
+
+
+
+
+
+
+
+
+ 
+EKSMA Optics, UAB 
+Address: Mokslininku str. 11 LT-08412 Vilnius, Lithuania 
+Phone: (+370) 5 272 99 00 Fax: (+370) 5 272 92 99 E-mail: info@eksmaoptics.com 

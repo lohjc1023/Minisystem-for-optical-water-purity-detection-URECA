@@ -1,0 +1,339 @@
+From:	philipong@hakuto.com.sg
+Sent:	Tuesday, 3 August 2021 5:20 PM
+To:	Poenar Daniel Puiu (Assoc Prof)
+Subject:	RE: NTU (EEE) / Hamamatsu inquiry
+Attachments:	EE_datasheet_EN_001.pdf; LightSource_datasheet_EN_001.pdf; Optical 
+Fiber_datasheet_EN_001.pdf; Cuvette Holder_datasheet_EN_001.pdf
+
+Hi Daniel,
+
+Thank you for sharing. Can I confirm if Professor S.A. Synder you have mentioned is from Civil & 
+Environmental Engineering https://www.ntu.edu.sg/cee/about-us/our-people/faculty/rp00731? I try to 
+explain and justify with Hamamatsu accordingly.
+
+Please refer to the following budgetary price for your reference purpose:
+
+OTO Photonics (Please refer to the attached data sheet for your reference purpose) *Note: accessories 
+such as cuvette and fibre needs to be purchase together with spectrometer.
+-	UVvis-TEC spectrometer / EagleEye model -> EE2063 - USD7,200/unit
+-	Deuterium-Halogen Light Source (LS-DH) -> LS-DH-2 – USD2,700/unit
+-	2 optical fibers OF-600-100-UVS, again also with any necessary coupling lens & control/analysis 
+software if needed.
+o	OF-600-100-UVS (optical fibre) – USD350
+o	CH-4W (4-way cuvette holder set) – USD390
+o	CVT-QAZ (Quartz square cuvette) – USD150
+
+FireflySci (*Note: There will be additional freight charge + handling fee of USD150)
+-	48UV10 -> USD320/pce
+-	501UV10 -> USD340/pce
+
+Regards,
+Philip Ong
+
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, 3 August 2021 4:56 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+
+Yes, that is correct, the list & details are OK.
+Since we don’t even a complete project proposal yet, let alone an on-going approved project, obviously 
+there has been no work done and hence no publication! But the 2nd attached paper is authored by prof. 
+Snyder, who is now a prof. in NTU and who will also participate in the project. I hope this is OK.          
+               Thank you once again and am looking forward for your quotation(s).
+       With best wishes,
+               Daniel
+
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Tuesday, 3 August 2021 4:36 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: gregoryquek@hakuto.com.sg; kelvintee@hakuto.com.sg 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+
+Hi Daniel,
+
+Thank you for getting back with the details and information. I have summarised the details accordingly 
+and also for your requested products below. Regarding the written article as requested for Japan export 
+screening. Do you have any article which has been written by either yourself or from any one in NTU EEE 
+relating to this application? This is usually requested by Hamamatsu for their screening process.
+
+- Model Number: S1227-1010BQ, S12698-02, S1337-21, S4114-46Q, S5973-01, S12271, S9295, S3477-
+04, S8553, S15249
+- Quantity: 2-6pcs each
+- Application: Water quality assessment and monitoring using UV absorption as well as fluorescence.
+- End User: NTU
+- End User Country: Singapore
+- End User Website: https://www.ntu.edu.sg/eee
+
+Ocean Insight 
+-	STS-UV, STS-VIS and 
+-	OCEAN-HDX-UV-VIS, including 2 coupling optical fibers and any necessary coupling lens & 
+control/analysis software if needed.
+
+OTO Photonics 
+-	UVvis-TEC spectrometer
+-	EagleEye model EE2063, 
+-	Deuterium-Halogen Light Source (LS-DH), and 
+-	2 optical fibers OF-600-100-UVS, again also with any necessary coupling lens & control/analysis 
+software if needed.
+
+FireflySci
+-	48UV10
+-	501UV10
+-	A custom-made flow cell, as shown in the drawing in the left attached image below. 
+o	The dimensions are: L= 50 mm, W = 25 mm; H = 5?....8? mm. The wall thickness can be 
+chosen as dictated by the fabrication considerations. The H value will probably also be 
+dictated by manufacturing practical considerations, because the inside chamber will have 
+a height h = H-2t, where t is the thickness of the quartz material which obviously cannot 
+be reduced below a certain minimal value, which I am not sure what would be in their 
+case: 1.5 mm? If we assume 1.5 mm to be indeed the minimal quartz wall thickness 
+value then I believe that a minimal overall height of ~6…7 mm is feasible. As is shown in 
+the drawing, ideally we would like 3 of the lateral walls (all of which normally would be 
+smoothly polished and transparent) to be (after polishing) covered with an UV-enhanced 
+Al coating which can serve as a good quality mirror for both most of the UV and visible 
+ranges. For such mirrors usually the critical part is extending the reflectivity in the UV, 
+hence the indicated value of minimal reflectivity for the coating of Rmin>80% @ the 
+wavelength of 235 nm, because usually the reflectivity just gradually increases at larger 
+wavelengths and remains relatively high throughout the visible range. The flow cell can 
+be made either like a 501 type (i.e. with the inlet/outlet colinear with the flow cell itself), or 
+as a 48 type (i.e. the inlet/outlet will be normal onto one facet, in this case obviously the 
+non-covered facet, but in this case clearly the entire length of the cell will need to be 
+increased to include the size necessary for the inlet & outlet themselves), which is 
+considered to be best for manufacturing and assembly (see next). 
+o	Finally, the price in the quotation should be for a final product that should include not just 
+the custom flow cell but also its immediate fluidic connections to the inlet & outlet. In 
+other words, it should look similar to the item shown in the right attached image below, 
+i.e. it is better if they can do also do the coupling of inlet & outlet  to tubing themselves so 
+that we do not damage them or the delicate quartz flow cell and we can easily use it 
+directly and connect it to any other tubing as required (and this way the inlet/outlet are 
+also better protected during shipping & subsequent handling). The dimensions (LWH) are 
+not very critical. If it is considered that for handling and safety considerations -e.g. for 
+proper subsequent polishing without breaking it apart, and/or to be able to properly screw 
+tightly the metal connectors to the tubing at the end- at least one of the initial sizes needs 
+to be modified (e.g. H needs to be increased, say to a minimal value of 9 mm), then sure, 
+no problem.
+
+ 
+
+DOWA
+-	UF1VL-1H321 & UF4VL-1H321
+-	308-FL-02-G02 & 340-FL-02-G02
+-	Any LEDs with emission at shorter wavelengths, e.g. 280 nm and 235 nm.
+
+Thank you.
+
+Regards,
+Philip Ong
+
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, 3 August 2021 3:45 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Cc: QUEK SEOW BENG GREGORY <gregoryquek@hakuto.com.sg>; KELVIN TEE CHENG KAI 
+<kelvintee@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry 
+Importance: High
+
+                                             Dear Mr. Philip Ong,
+               Thank you for your quick reply! I am a bit familiar with Hakuto, actually Mr. Gregory Quek may 
+remember me from the past when I bothered him a few times for various quotations.
+               Let me quickly address you questions. First, attached you have the filled in declaration file, with 
+attached papers as required about clarifying the application/topic of our proposal. Second, as I also 
+stated there, please allow me to highlight that at this moment I need only the cost 
+information/quotation not a delivery of devices because I am working at the project proposal and I need 
+to estimate the total budget. For this I need to compare not only the specs of various devices but also 
+their costs in order to select the most suitable one(s) for the project, so right now the question of usage 
+of the devices is irrelevant. IF the project will ultimately be approved, then of course the question of 
+delivery will become relevant, and in that case certainly I will contact you once we will need device(s) to 
+make the setup(s).
+   The project proposal itself is about water quality assessment and monitoring using UV absorption as 
+well as fluorescence.
+
+- Quantity: The setup may need 2 detectors, one for UV absorption and one for fluorescence, but 
+probably we may need to do a few versions of setups, so maybe a safer estimation of most probable 
+need would be a possible order of 6 pieces. However, this will not be for ALL the devices I inquired 
+about, but only for 2 or 3 of them which ultimately will be selected as optimal. Once the project will 
+be approved and the design clarified, I will contact you again when delivery will be needed.
+- Application:   Right now no application, only budget estimation for a project proposal. The 
+project proposal itself is about water quality assessment and monitoring using UV 
+absorption as well as fluorescence (see attached papers).
+- End User: NTU
+- End User Country: Singapore
+- End User Website: NTU/EEE website
+
+Since you mentioned you are also distributor for other companies I also am interested in the following 
+products, so I hope it is possible you can also give me quotation(s) for these products:
+-	From Ocean Optics (which now is Ocean Insight – BTW your link is not correct: any browser I use 
+gives a warning that the site is not secure): the spectrometers STS-UV, STS-VIS and OCEAN-HDX-
+UV-VIS, including 2 coupling optical fibers and any necessary coupling lens & control/analysis 
+software if needed. 
+-	From OTO Photonics: the UVvis-TEC spectrometer EagleEye model EE2063, Deuterium-Halogen 
+Light Source (LS-DH), and 2 optical fibers OF-600-100-UVS, again also with any necessary 
+coupling lens & control/analysis software if needed
+-	From FireflySci: they have quartz flow cells and I am interested in a few. I would like to ask you 
+to please kindly give me the prices of the following flow cells (ALL made of UV quartz) in a 
+quotation: 
+o	48UV10
+o	501UV10
+o	A custom-made flow cell, as shown in the drawing in the first attached jpg image. The 
+dimensions are: L= 50 mm, W = 25 mm; H = 5?....8? mm. The wall thickness can be 
+chosen as dictated by the fabrication considerations. The H value will probably also be 
+dictated by manufacturing practical considerations, because the inside chamber will 
+have a height h = H-2t, where t is the thickness of the quartz material which obviously 
+cannot be reduced below a certain minimal value, which I am not sure what would be in 
+their case: 1.5 mm? If we assume 1.5 mm to be indeed the minimal quartz wall 
+thickness value then I believe that a minimal overall height of ~6…7 mm is feasible. As is 
+shown in the drawing, ideally we would like 3 of the lateral walls (all of which normally 
+would be smoothly polished and transparent) to be (after polishing) covered with an 
+UV-enhanced Al coating which can serve as a good quality mirror for both most of the 
+UV and visible ranges. For such mirrors usually the critical part is extending the 
+reflectivity in the UV, hence the indicated value of minimal reflectivity for the coating of 
+Rmin>80% @ the wavelength of 235 nm, because usually the reflectivity just gradually 
+increases at larger wavelengths and remains relatively high throughout the visible 
+range. The flow cell can be made either like a 501 type (i.e. with the inlet/outlet colinear 
+with the flow cell itself), or as a 48 type (i.e. the inlet/outlet will be normal onto one 
+facet, in this case obviously the non-covered facet, but in this case clearly the entire 
+length of the cell will need to be increased to include the size necessary for the inlet & 
+outlet themselves), which is considered to be best for manufacturing and assembly (see 
+next). Finally, the price in the quotation should be for a final product that should include 
+not just the custom flow cell but also its immediate fluidic connections to the inlet & 
+outlet. In other words, it should look similar to the item shown in the last attached jpg 
+image, i.e. it is better if they can do also do the coupling of inlet & outlet  to tubing 
+themselves so that we do not damage them or the delicate quartz flow cell and we can 
+easily use it directly and connect it to any other tubing as required (and this way the 
+inlet/outlet are also better protected during shipping & subsequent handling). The 
+dimensions (LWH) are not very critical. If it is considered that for handling and safety 
+considerations -e.g. for proper subsequent polishing without breaking it apart, and/or to 
+be able to properly screw tightly the metal connectors to the tubing at the end- at least 
+one of the initial sizes needs to be modified (e.g. H needs to be increased, say to a 
+minimal value of 9 mm), then sure, no problem.
+-	From DOWA: I would like to know the prices for the following devices:
+o	UF1VL-1H321 & UF4VL-1H321
+o	308-FL-02-G02 & 340-FL-02-G02
+o	Do they have LEDs with emission at shorter wavelengths, e.g. 280 nm and 235 nm??
+
+Thank you very much for you time and consideration and I am looking forward for your feedback!
+               With best wishes,
+               Daniel
+
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Tuesday, 3 August 2021 11:28 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: gregoryquek@hakuto.com.sg; kelvintee@hakuto.com.sg 
+Subject: NTU (EEE) / Hamamatsu inquiry
+
+Dear Daniel,
+
+Thank you for the interest for Hamamatsu’s products, I am glad to follow up from here. May I take this 
+opportunity to introduce Hakuto Singapore www.hakuto.com.sg. We are 100% Hakuto Japan 
+www.hakuto.co.jp owned Trading company and we are the authorized distributor of Hamamatsu 
+Photonics K.K.(HPK) products.
+
+As per of mandatory request by Japanese export control, user’s declaration is required before official 
+quotation. The reason is to avoid mass destructive weapon development. Please kindly provide the 
+following information highlighted in red as some of the customer overlooked and quotation was delayed 
+due to in sufficient information. We would also need your kind assistance to fill up the attached IEP form. 
+Do take note to provide us with reply on Question 5.5 (to provide an article written by yourself or anyone 
+from the same department relating to the application) in attached IEP form as some of the customer 
+overlooked and quotation was delayed due to in sufficient information.
+ 
+I apologise for any inconveniences caused as this is any requirement from all end user.
+
+- Model Number: S1227-1010BQ, S12698-02, S1337-21, S4114-46Q, S5973-01, S12271, S9295, S3477-
+04, S8553, S15249
+- Quantity: 
+- Application:   
+- End User: 
+- End User Country: 
+- End User Website: 
+
+In the meantime, we are also the authorized distributor of Various Major makers of Photonics companies 
+such as:
+==>	Colorimeter / Spectrophometer / Biophotometer / TOC Analyzer / Microwave digestion
+o	3nh
+o	Metash
+==>	Spectrometers
+o	Ocean Optics
+o	OTO Photonics
+==>	Smell sensor
+o	Aryballe Technologies
+==>	Spectral Sensors
+o	AMS
+==>	Cuvettes
+o	FireflySci
+==>	LEDs
+o	Dowa
+
+Looking forward to your information.
+
+Thank you.
+
+Regards,
+
+Philip Ong
+Chief Sales Engineer
+
+Hakuto Singapore Pte Ltd
+151 Lorong Chuan, #06-07A, Lobby G,
+New Tech Park Singapore 556741
+Tel: (65) 6745 8910 
+Email: philipong@hakuto.com.sg
+http://www.hakuto.com.sg
+
+
+-------------------------------------------------------------------- 
+[Inquiry] 
+-------------------------------------------------------------------- 
+Dear Lady/Sir, 
+My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical 
+& Electronical Engineering (EEE) of the Nanyang Technology University (NTU), 
+Singapore. 
+I am now working on a project proposal for whose budget configuration I need 
+to quickly gather quotations for the required materials & consumables.  
+I would like to ask you to please kindly provide me a quotation with the costs 
+for the following products: 
+S1227-1010BQ 
+S12698-02 
+S1337-21 
+S4114-46Q 
+S5973-01 
+S12271 
+S9295 
+S3477-04 
+S8553 
+S15249 
+Please kindly also include in the quotation the cost of packaging & shipping. 
+              Thank you for your help and am looking forward for your quick 
+feedback ! 
+              With best wishes, 
+              Poenar Daniel 
+ 
+ 
+-------------------------------------------------------------------- 
+[Customer Information] 
+-------------------------------------------------------------------- 
+Email?epdpuiu@ntu.edu.sg 
+First Name?Daniel 
+Last Name?Poenar 
+Organization name?NTU 
+Department?EEE School 
+Street?50 Nanyang Avenue 
+City? 
+State or province? 
+Postal/ZIP code? 
+Country?SG 
+Phone?+65 6790 4337 
+Fax?
+ 
+CONFIDENTIALITY: This email is intended solely for the person(s) named and may be confidential 
+and/or privileged. If you are not the intended recipient, please delete it, notify us and do not copy, use, or 
+disclose its contents.  
+Towards a sustainable earth: Print only when necessary. Thank you. 
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________

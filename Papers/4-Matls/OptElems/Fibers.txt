@@ -1,0 +1,39 @@
+EDMUND:
+
+0.22NA UV/VIS Patchcord 1000 Micron Fiber w/ FC Connector
+https://www.edmundoptics.com.sg/p/022na-uvvis-patchcord-1000-micron-fiber-w-fc-connector/14681/
+Stock #57-746	Qty 1-4:  S$540.95	Qty 5+: S$486.70
+1.3 mm diam., 1.5 m long, 190-1250 nm
+
+0.22NA VIS/NIR Patchcord 1000 Micron Fiber w/ FC Connector
+https://www.edmundoptics.com.sg/p/022na-visnir-patchcord-1000-micron-fiber-w-fc-connector/14690/
+Stock #57-751	Qty 1-4: S$540.95	Qty 5+: S$486.70
+1.3 mm diam., 1.5 m long, 300-2400 nm
+
+0.22NA UV/VIS Patchcord 1000 Micron Fiber w/ SMA Connector
+https://www.edmundoptics.com.sg/p/022na-uvvis-patchcord-1000-micron-fiber-w-sma-connector/15312/
+Stock #58-458	Qty 1-4: S$478.95	Qty 5+: S$410.75
+1.3 mm diam., 1.5 m long, 190-1250 nm
+
+0.22NA VIS/NIR Patchcord 1000 Micron Fiber w/ SMA Connector
+https://www.edmundoptics.com.sg/p/022na-visnir-patchcord-1000-micron-fiber-w-sma-connector/15278/
+Stock #58-401	Qty 1-4: S$478.95	Qty 5+: S$410.75
+1.3 mm diam., 1.5 m long, 300-2400 nm
+
+5mm x 6 ft length Liquid Light Guide
+https://www.edmundoptics.com.sg/p/5mm-x-6-liquid-light-guide/10783/
+Stock #53-691
+S$773.45
+
+https://www.edmundoptics.com.sg/f/buffered-fiber-optics/12870/ 
+
+600µm 0.22 NA UV/VIS Fiber, 10m Length
+https://www.edmundoptics.com.sg/p/600mum-022-na-uvvis-fiber-10m-length/14047/
+#57-070	Qty 1-4: S$654.10	Qty 5+: S$565.75 
+600 um core (Nc0re= 1.457, Nclad= 1.439), fused silica substrate, 10 m long, 190-1250 nm
+
+600µm 0.22 NA VIS/NIR Fiber, 10m Length
+#57-088		Qty 1-4: S$654.10	Qty 5+: S$565.75
+600 um core (Nc0re= 1.457, Nclad= 1.44), fused silica substrate, 10 m long, 300-2400 nm
+
+

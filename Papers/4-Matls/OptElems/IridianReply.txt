@@ -1,0 +1,89 @@
+From:	Poenar Daniel Puiu (Assoc Prof)
+Sent:	Tuesday, 8 June 2021 1:27 PM
+To:	Hongbai Lao
+Subject:	RE: Inquiry about a possible product
+
+                                             Dear Lao Hongbai,
+               Thank you for your quick reply. Please allow me to have 2 quick remarks:
+1)	I am a bit surprized that the “long” part is worrying you (if my impression is correct). From 
+what I have seen at other companies on the Net, this is not the problem: I saw there are 
+filters with very high transmission all the way from the visible way into the NIR covering 
+even the telecom wavelength of 1.5 microns. Compared to this, my filter’s high transmission 
+band that should cover only up to  800 or 780 nm (or even less, as I stated earlier) is rather 
+puny. Much more critical is to have a very high transmission within this passband, as high as 
+possible, because -as you probably guessed- the filter will be used for some fluorescence 
+application and we don’t want to lose anything from the very weak fluoresced radiation 
+(which also indicates that the substrate does not need to have good UV qualities but should 
+rather have a bloody high transmission throughout the entire visible range).
+What I found to be extremely difficult instead, was to ensure the reflectivity range to be 
+wide enough and -again- with R high enough. Even a small leakage is undesired not only 
+for safety reasons, or to avoid false signals picked by detector, but also because if the 
+substrate is not of UV quality (for the reason stated above) then the UV radiation in time 
+may slowly degrade its optical qualities,. i.e. will break down its chemical composition 
+and its optical transparency will slowly degrade in time.  So the requirements for the 
+SHORT wavelength range -both in terms of VERY HIGH reflectivity and bandwidth (from 
+230 to 380/400 nm)- are much more critical, at least in my opinion – but please let me 
+know if I am wrong/your opinion.
+2)	Yes, the price is rather steep, will definitely need to discuss with my project collaborators. 
+However, if you don’t mind, can you please be a bit more specific? I remember when I was a 
+student, in order to make us accurate and specific in our exprimation as engineers one of 
+our profs told us neve to use fuzzy vague expression like “approximate”, “about” or 
+“around”. To exemplify he asked us: “If your boss tells you will receive a ‘good’ (or ‘large’) 
+bonus, what does it mean? 10,000$? 1,000? 100? 1$? ??”
+Likewise, in this case how much would be the cost? $4111? Or $6999?
+
+               Thank you for your time and am looking forward for your feedback!
+Best wishes,
+               Daniel
+
+
+From: Hongbai Lao <hongbai.lao@iridian.ca>  
+Sent: Tuesday, 8 June 2021 3:53 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Inquiry about a possible product
+
+Hi Poenar,
+ 
+Thanks for your inquiry. For such a long pass edge filter, it has to be a custom filter. Typically a custom 
+filter will cost you about $6000USD. Do you think you have the budget for a custom filter. 
+ 
+Regards,
+Hongbai
+ 
+Hongbai Lao, Ph.D.
+Account Manager
+Iridian Spectral Technologies
+T: (613) 709-9518
+E: hongbai.lao@iridian.ca
+An ISO 9001:2015 Certified Company
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: June 7, 2021 5:55 AM 
+To: istsales <istsales@iridian.ca> 
+Subject: Inquiry about a possible product 
+Importance: High
+ 
+[EXTERNAL EMAIL]
+ 
+                                             Dear Lady/Sir,
+               My name is Poenar Daniel and I am an Assoc.Prof. in the EEE School of NTU, Singapore. I would 
+like to know if you have available or if it is possible for you to fabricate a UV-vis long-pass dichroic 
+mirror, although maybe a more appropriate name would be edge filter because the ideal desired 
+operation should be for an AOI of 0°, NOT 45° as is typical with normal applications for dichroic mirrors 
+(e.g. in a filter cube). 
+               The specs for this filter are: high reflectivity (R>90%) in the UV (between 230 nm and 380 or400 
+nm) and high transmissivity (T>90%)  in the visible range (between approx.380 or 400 nm and 750...780 
+nm).  If the latter too tough (i.e. too difficult/impossible to reconcile both rejection & transmission 
+windows requirements simultaneously), the vis range transmission window's long wavelength limit can 
+be reduced down to 600 nm or even 550 nm if really necessary.
+               If you have/can do it, then please kindly send me a quotation for it, including the cost of 
+packaging & shipping.
+               Thank you for your help and am looking forward for your quick feedback !
+               With best wishes,
+               Poenar Daniel
+ 
+ 
+CONFIDENTIALITY: This email is intended solely for the person(s) named and may be confidential 
+and/or privileged. If you are not the intended recipient, please delete it, notify us and do not copy, use, or 
+disclose its contents.  
+Towards a sustainable earth: Print only when necessary. Thank you. 

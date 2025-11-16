@@ -1,0 +1,37 @@
+Dear Lady/Sir, 
+
+My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical & Electronical Engineering (EEE) of the Nanyang Technology University (NTU), Singapore.
+ 	I am now working on a project proposal for whose budget configuration I need to quickly gather quotations for the required devices.
+
+I would have contacted directly your Singapore reprezentative but unfortunately you do NOT indicate their e-mail.
+
+I would like to request for a quotation for a few of your devices, namely:
+
+LASER DIODES: 
+
+NDU4116 and NDU7216
+
+
+
+LEDs: 
+
+NCSU334B with peak wavelength 280 nm
+
+NCSU334B with peak wavelength 330 nm if you have it available (your UV LED catalogue says "under development")
+
+NVSU233B-D4 with peak wavelength 365 nm
+NSHU551C with peak wavelength 365 nm
+
+NSHU591C with peak wavelength 365 nm
+
+
+
+The project proposes to build a water quality assessment unit using fluorescence and UV absorption/transmission.
+
+
+
+If required by your company, of course indicated the minimum nr. of pieces necessary for a valid quotation. Also please add in the quotation the cost for the shipment. Thank you for your time and consideration, and am looking forward for your quick feedback with the quotation! 
+
+With best wishes, 
+
+Poenar Daniel

@@ -1,0 +1,733 @@
+From:	philipong@hakuto.com.sg
+Sent:	Monday, 23 August 2021 10:43 AM
+To:	Poenar Daniel Puiu (Assoc Prof)
+Subject:	Re: NTU (EEE) / Hamamatsu inquiry
+
+Hi Daniel,
+
+For Dowa, Hakuto is no longer distributing their products as updated from our HQ (Hakuto Japan) in 
+Japan. 
+
+For FireflySci, please let me check with them again and get confirmation on the customisation and also if 
+they have any standards products similar to the image you have provided.
+
+Regards,
+Philip
+
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Sent: Friday, August 20, 2021 4:19 PM 
+To: ONG PANG KIAT PHILIP 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+                                             Dear Mr. Philip Ong,
+               Thank you for your updates, although frankly I am rather puzzled by the answers from the 
+companies which do not quite make sense, specifically:
+ 
+1.	For DOWA, at WHICH exact product are they referring to?? I can’t believe that they don’t have 
+ANY of those I indicated! You may remember that for DOWA I indicated that I was interested in 
+the following devices:
+o	UF1VL-1H321 & UF4VL-1H321
+o	308-FL-02-G02 & 340-FL-02-G02
+o	Do they have LEDs with emission at shorter wavelengths, e.g. 280 nm and 235 nm??
+Attached you have their spec sheets and info for their products, so clearly I cannot possibly believe they 
+are NOT producing the indicated devices. Maybe one but not all. So please kindly ask them again about 
+the previously listed devices to provide a quotation, or -in case one of them is not produced to indicate 
+their new device that replaces it. Even if they may not have some device, then they indicate the one 
+closest in specs to the one9s) indicated.
+2.	For FireFlySci, I am puzzled because in their website the clearly indicate that they CAN do 
+customization. Anyway, in this case then can you please ask them if they can provide a 
+quotation for an assembly similar to that shown in the photo (taken from their website!), i.e. for 
+a quartz flow cell with mounted metal side flanges and the plastic connecting tubes? Just as 
+previously, they can provide the costs for such a full arrangement in 2 cases, for the same flow 
+cells indicated previously: 48UV10 & 501UV10
+ 
+Thank you very much for your kind help!
+               With best wishes,
+               Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Thursday, 19 August 2021 11:51 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+I am still following up on your request. The following updates for your reference.
+ 
+Hamamatsu -> Screening process is still on-going.
+Dowa -> Our Japan HQ have reverted and confirm that we have just recently stop carrying this product.
+FireflySci -> They have reverted that they will not be able to do customisation.
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, 17 August 2021 4:30 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Sure, no problem, thank you very much!
+               Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Tuesday, 17 August 2021 4:29 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+I am still following up with Japan on this. Especially on the Hamamatsu’s products which their screening 
+process will usually takes some time.
+ 
+Let me get back to you as soon as I have any updates.
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: ONG PANG KIAT PHILIP  
+Sent: Wednesday, 11 August 2021 1:39 PM 
+To: 'Poenar Daniel Puiu (Assoc Prof)' <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+For Dowa & Hamamatsu’s product. Please allow me to get back to you next week as Japan is currently 
+having their golden week holiday.
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: ONG PANG KIAT PHILIP  
+Sent: Friday, 6 August 2021 5:55 PM 
+To: 'Poenar Daniel Puiu (Assoc Prof)' <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+Please refer to the following price in SGD as requested.
+ 
+Ocean Insight
+Part No.
+Description
+Unit price
+ 
+STS-UV-L-25-400-SMA 
+STS Microspectrometer, 190-600nm, 25um Slit, 400 Core/1 cm SMA 
+Input
+SGD 2,850.00
+ 
+STS-VIS-L-25-400-SMA 
+STS Microspectrometer, 350-800nm, 25um Slit, 400 Core/1 cm SMA 
+Input
+SGD 2,710.00
+ 
+OCEAN-HDX-UV-VIS
+Ocean-HDX Visible to UV-VIS Optimized Spectrometer
+SGD 9,350.00
+ 
+QP200-2-UV-VIS
+200 um Premium Fiber, UV/VIS, 2m
+SGD 750.00
+ 
+OCEANVIEW
+OceanView spectroscopy software with graphical user interface; 1 
+license (2 installations, accessible by download only from secure 
+server
+SGD 780.00
+*Note: accessories such as fibre will need to be purchase together with spectrometer.
+
+ 
+ 
+OTO Photonics 
+Part No.
+Description
+Unit price
+ 
+EE2063
+UVvis-TEC spectrometer / EagleEye model 
+SGD 9,750.00
+ 
+LS-DH-2 
+Deuterium-Halogen Light Source (LS-DH)
+SGD 3,660.00
+ 
+OF-600-100-UVS
+optical fibre
+SGD 480.00
+ 
+CH-4W 
+4-way cuvette holder set
+SGD 550.00
+ 
+CVT-QAZ 
+Quartz square cuvette
+SGD 210.00
+*Note: accessories such as cuvette and fibre needs to be purchase together with spectrometer.
+
+ 
+ 
+FireflySci
+Part No.
+Unit price
+ 
+48UV10
+SGD 450.00
+ 
+501UV10
+SGD 480.00
+*Note: There will be additional freight charge + handling fee of USD150
+ 
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: ONG PANG KIAT PHILIP  
+Sent: Thursday, 5 August 2021 8:29 PM 
+To: 'Poenar Daniel Puiu (Assoc Prof)' <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+Regarding the customisation for FireflySci, according to them, they will need a sketch with all dimensions 
+(inner and outer) indicated if CAD is not available. Will you be able to provide that?
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Wednesday, 4 August 2021 8:17 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+OH, I see, why the difference in price!
+I hope Firefly can provide some reply, after all this is why I indicated 3 possible options for them, they 
+can chose which one(s) they can provide info for, ideally for all ??
+In any case, thanks a lot for your effort!
+               Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Wednesday, 4 August 2021 3:41 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+I will check with FireflySci if they are able to advice base on your provided information and see if they are 
+still interested and willing to advice accordingly. Let me get back.
+ 
+Regarding “Finally also thank you for all the info, but can you please re-forward all the info in S$ because 
+otherwise it is not very useful, it is exactly the same as in the website(s). Actually for the EagleEye 
+spectrometer from OtO why is your price indicated as USD7200 when on their website is USD6800? 
+Likewise for the LS-DH source which is USD2410 on the website?” -> the price stated are meant for 
+domestic market only and it does not include shipping. Our price are based on local delivery within 
+Singapore.
+ 
+Let me rework all the price in SGD and provide to you again.
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Wednesday, 4 August 2021 2:41 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry 
+Importance: High
+ 
+                                             Dear Mr. Philip Ong,
+               OK, sure, then we just wait for the reply from Japan and from Dowa.
+ 
+               For the FireflySci:
+*	I am afraid I don’t have any CAD sketch and don’t have any access to a CAD software. I already 
+made them a drawing with outer dimensions included. As I clearly indicated in my text, the inner 
+dimensions will depend on their standard wall thickness, so they can easily deduce the inner 
+dimensions using that standard value. If they have already some existing standardized flow cell 
+of similar dimensions close to our values then they can just use that even if the dimensions 
+could be a bit different;
+*	Likewise the coating was already indicated: UV enhanced Al mirror – this is the standard name 
+used by almost all manufacturers worldwide (with some small variations). If it makes things 
+easier, they can consider and quote for all 3 possible variations: 
+A.	Quote just for the quartz flow cell with the necessary dimensions (or any standard 
+they have closest to it) WITHOUT ANY coating; 
+B.	Quote for the quartz flow cell coated on 3 sides with a standard UV enhanced Al 
+mirror, which typically consists of just an Al layer covered usually by 1 or 2 thin 
+layers that modify its reflectivity. The layer(s) is/are to ensure reflectivity R remains 
+reasonably high at shorter wavelengths in UV, as well as protect the Al both against 
+oxidation & scratching. For this I also told them the specifications: the reflectivity R 
+should be more than (or at least equal with) 80% at the wavelength of 235 nm, and 
+should be at least that high or even higher throughout the visible range, i.e. until at 
+least 600 nm. Usually the reflectivity is higher after the UV region because fresh 
+unoxidized Al itself has a pretty good reflectivity in the visible range (we are NOT 
+interested in the IR region). Actually, FRESH BARE Al has a very good reflectivity in 
+UV as well; see attached graph. You can see that R>90% for all wavelengths 
+between 200 to 600 nm, which includes our range of interest. The CATCH is that this 
+is only for FRESH BARE aluminum and does not remain like this because because Al 
+which will slowly oxidize, resulting in a significant loss of reflectance in the UV, and 
+slight scattering throughout the spectrum. Therefore, it is best if aluminum has a 
+protective dielectric overcoat deposited in the same machine, in vacuum, 
+immediately after the deposition of the Al layer. Typically this is obtained with a thin 
+layer of SiO2 or other suitable/available dielectric, whose thickness has to be 
+designed to optimize, i.e. increase (NOT decrease) the reflectivity or at least 
+maintain it at the same level, especially in the UV part. Sometimes 2 such dielectric 
+layers are used in order to achieve this increased/improved/maintained high 
+reflectivity in UV and also for other roles as well (better optical matching with air, 
+better protection against oxidations, against scratching, etc.)
+    If FireflySci does have optical layer deposition equipment and optical coating 
+specialists, I am sure they are familiar with how such a UV enhanced Al mirror can 
+be realized.
+   
+C.	Quote for the quartz flow cell coated on 3 sides with a slightly modified mirror 
+design. If FireflySci indeed does have optical layer deposition equipment and optical 
+coating specialists, then it may be worth to ask them to realize a modified mirror 
+design for the coating (see attached drawing). For the standard mirror, the topmost 
+side has the high desired reflectivity, and the bottom side just sits on the substrate 
+(quartz). However, for our application, it is best to have the highest reflectivity at 
+the interface with the quartz, NOT with the air! This means that the light comes 
+from the quartz side and also reflects back into the quartz!  In optical design terms, 
+it means that for the optical design of our mirror the “substrate” is actually air, the 
+1st layer is a thin SiO2 (or other dielectric) protective layer, followed by the Al layer, 
+then the other layer(s) for enhanced reflectivity in UV-vis, and then finally the 
+quartz, which in optical filter design terms is now the “exit medium”. If it is too 
+difficult to achieve R>80% for all wavelengths above 235 nm up to 600 nm with 
+normal incidence at the interface with the quartz (again, light is incident from the 
+quartz side!) then it can be designed/optimized for another angle of incidence, e.g. 
+45o. If the FireflySci has optical coating specialists who have available the optical 
+data for quartz, Al and of their used dielectrics at many wavelengths in the range of 
+interest and also have the necessary optical filter design software, then this design 
+would not take more than 30min… 1hr at the most. When I was  a PhD I did have 
+such a design software but unfortunately don’t have it anymore, but I know from 
+experience that the design in itself is not difficult, especially if they are proffesionals 
+who know already the standard solution for a typical UV enhanced Al mirror, and 
+whose layer thicknesses and materials may need to be tweaked a bit to re-optimize 
+for the new situation described above (air as “substrate” and quartz as “exit 
+medium” from which light is incident and into which is reflected back).
+               
+Finally also thank you for all the info, but can you please re-forward all the info in S$ because otherwise 
+it is not very useful, it is exactly the same as in the website(s). Actually for the EagleEye spectrometer 
+from OtO why is your price indicated as USD7200 when on their website is USD6800? Likewise for the 
+LS-DH source which is USD2410 on the website?
+ 
+               Thank you very much once again and am looking forward for your feedback!
+               Best wishes,       
+Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Wednesday, 4 August 2021 11:15 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+For the Hamamatsu products, I have requested the quote accordingly and have explain on the article 
+required, please do allow me to get back should any further clarification is needed. The screening 
+process will take some time, I hope we are able to revert before next week when Japan is away for their 
+golden week holiday.
+ 
+Dowa -> Please wait and allow me to revert.
+ 
+Ocean Insight (*Note: accessories such as fibre will need to be purchase together with spectrometer.)
+*	STS-UV-L-25-400-SMA (STS Microspectrometer, 190-600nm, 25um Slit, 400 Core/1 cm SMA 
+Input) -> USD2,100
+*	STS-VIS-L-25-400-SMA (STS Microspectrometer, 350-800nm, 25um Slit, 400 Core/1 cm SMA 
+Input) -> USD2,000
+*	OCEAN-HDX-UV-VIS (Ocean-HDX Visible to UV-VIS Optimized Spectrometer) -> USD6,900
+*	QP200-2-UV-VIS (200 um Premium Fiber, UV/VIS, 2m) -> USD550
+*	OCEANVIEW (OceanView spectroscopy software with graphical user interface; 1 license (2 
+installations, accessible by download only from secure server) -> USD570
+ 
+Do you require any cuvette holder? https://www.youtube.com/watch?v=XakXrpmc470 -> You can take a 
+look on how the fluorescence measurement is done using the cuvette holder should you be interested.
+ 
+FireflySci
+*	Customisation -> Factory have requested for wither a CAD sketch or a sketch with all dimensions 
+indicated (inner and outer) which includes details like the coating which are required by from all 
+end user for any customisation request.
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, 3 August 2021 5:27 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Yes, that’s him! ??
+Thanks for the provided data. I hope you can provide the others soon and also please inquire Firefly 
+about the custom cuvette.
+               Thank you!
+               Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Tuesday, 3 August 2021 5:20 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+Thank you for sharing. Can I confirm if Professor S.A. Synder you have mentioned is from Civil & 
+Environmental Engineering https://www.ntu.edu.sg/cee/about-us/our-people/faculty/rp00731? I try to 
+explain and justify with Hamamatsu accordingly.
+ 
+Please refer to the following budgetary price for your reference purpose:
+ 
+OTO Photonics (Please refer to the attached data sheet for your reference purpose) *Note: accessories 
+such as cuvette and fibre needs to be purchase together with spectrometer.
+*	UVvis-TEC spectrometer / EagleEye model -> EE2063 - USD7,200/unit
+*	Deuterium-Halogen Light Source (LS-DH) -> LS-DH-2 – USD2,700/unit
+*	2 optical fibers OF-600-100-UVS, again also with any necessary coupling lens & control/analysis 
+software if needed.
+o	OF-600-100-UVS (optical fibre) – USD350
+o	CH-4W (4-way cuvette holder set) – USD390
+o	CVT-QAZ (Quartz square cuvette) – USD150
+ 
+FireflySci (*Note: There will be additional freight charge + handling fee of USD150)
+*	48UV10 -> USD320/pce
+*	501UV10 -> USD340/pce
+ 
+Regards,
+Philip Ong
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, 3 August 2021 4:56 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Yes, that is correct, the list & details are OK.
+Since we don’t even a complete project proposal yet, let alone an on-going approved project, obviously 
+there has been no work done and hence no publication! But the 2nd attached paper is authored by prof. 
+Snyder, who is now a prof. in NTU and who will also participate in the project. I hope this is OK.          
+               Thank you once again and am looking forward for your quotation(s).
+       With best wishes,
+               Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Tuesday, 3 August 2021 4:36 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: gregoryquek@hakuto.com.sg; kelvintee@hakuto.com.sg 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry
+ 
+Hi Daniel,
+ 
+Thank you for getting back with the details and information. I have summarised the details accordingly 
+and also for your requested products below. Regarding the written article as requested for Japan export 
+screening. Do you have any article which has been written by either yourself or from any one in NTU EEE 
+relating to this application? This is usually requested by Hamamatsu for their screening process.
+ 
+- Model Number: S1227-1010BQ, S12698-02, S1337-21, S4114-46Q, S5973-01, S12271, S9295, S3477-
+04, S8553, S15249
+- Quantity: 2-6pcs each
+- Application: Water quality assessment and monitoring using UV absorption as well as fluorescence.
+- End User: NTU
+- End User Country: Singapore
+- End User Website: https://www.ntu.edu.sg/eee
+ 
+Ocean Insight 
+*	STS-UV, STS-VIS and 
+*	OCEAN-HDX-UV-VIS, including 2 coupling optical fibers and any necessary coupling lens & 
+control/analysis software if needed.
+ 
+OTO Photonics 
+*	UVvis-TEC spectrometer
+*	EagleEye model EE2063, 
+*	Deuterium-Halogen Light Source (LS-DH), and 
+*	2 optical fibers OF-600-100-UVS, again also with any necessary coupling lens & control/analysis 
+software if needed.
+ 
+FireflySci
+*	48UV10
+*	501UV10
+*	A custom-made flow cell, as shown in the drawing in the left attached image below. 
+o	The dimensions are: L= 50 mm, W = 25 mm; H = 5?....8? mm. The wall thickness can be 
+chosen as dictated by the fabrication considerations. The H value will probably also be 
+dictated by manufacturing practical considerations, because the inside chamber will have 
+a height h = H-2t, where t is the thickness of the quartz material which obviously cannot 
+be reduced below a certain minimal value, which I am not sure what would be in their 
+case: 1.5 mm? If we assume 1.5 mm to be indeed the minimal quartz wall thickness 
+value then I believe that a minimal overall height of ~6…7 mm is feasible. As is shown in 
+the drawing, ideally we would like 3 of the lateral walls (all of which normally would be 
+smoothly polished and transparent) to be (after polishing) covered with an UV-enhanced 
+Al coating which can serve as a good quality mirror for both most of the UV and visible 
+ranges. For such mirrors usually the critical part is extending the reflectivity in the UV, 
+hence the indicated value of minimal reflectivity for the coating of Rmin>80% @ the 
+wavelength of 235 nm, because usually the reflectivity just gradually increases at larger 
+wavelengths and remains relatively high throughout the visible range. The flow cell can 
+be made either like a 501 type (i.e. with the inlet/outlet colinear with the flow cell itself), or 
+as a 48 type (i.e. the inlet/outlet will be normal onto one facet, in this case obviously the 
+non-covered facet, but in this case clearly the entire length of the cell will need to be 
+increased to include the size necessary for the inlet & outlet themselves), which is 
+considered to be best for manufacturing and assembly (see next). 
+o	Finally, the price in the quotation should be for a final product that should include not just 
+the custom flow cell but also its immediate fluidic connections to the inlet & outlet. In 
+other words, it should look similar to the item shown in the right attached image below, 
+i.e. it is better if they can do also do the coupling of inlet & outlet  to tubing themselves so 
+that we do not damage them or the delicate quartz flow cell and we can easily use it 
+directly and connect it to any other tubing as required (and this way the inlet/outlet are 
+also better protected during shipping & subsequent handling). The dimensions (LWH) are 
+not very critical. If it is considered that for handling and safety considerations -e.g. for 
+proper subsequent polishing without breaking it apart, and/or to be able to properly screw 
+tightly the metal connectors to the tubing at the end- at least one of the initial sizes needs 
+to be modified (e.g. H needs to be increased, say to a minimal value of 9 mm), then sure, 
+no problem.
+ 
+ 
+ 
+DOWA
+*	UF1VL-1H321 & UF4VL-1H321
+*	308-FL-02-G02 & 340-FL-02-G02
+*	Any LEDs with emission at shorter wavelengths, e.g. 280 nm and 235 nm.
+ 
+Thank you.
+ 
+Regards,
+Philip Ong
+ 
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Tuesday, 3 August 2021 3:45 PM 
+To: ONG PANG KIAT PHILIP <philipong@hakuto.com.sg> 
+Cc: QUEK SEOW BENG GREGORY <gregoryquek@hakuto.com.sg>; KELVIN TEE CHENG KAI 
+<kelvintee@hakuto.com.sg> 
+Subject: RE: NTU (EEE) / Hamamatsu inquiry 
+Importance: High
+ 
+                                             Dear Mr. Philip Ong,
+               Thank you for your quick reply! I am a bit familiar with Hakuto, actually Mr. Gregory Quek may 
+remember me from the past when I bothered him a few times for various quotations.
+               Let me quickly address you questions. First, attached you have the filled in declaration file, with 
+attached papers as required about clarifying the application/topic of our proposal. Second, as I also 
+stated there, please allow me to highlight that at this moment I need only the cost 
+information/quotation not a delivery of devices because I am working at the project proposal and I need 
+to estimate the total budget. For this I need to compare not only the specs of various devices but also 
+their costs in order to select the most suitable one(s) for the project, so right now the question of usage 
+of the devices is irrelevant. IF the project will ultimately be approved, then of course the question of 
+delivery will become relevant, and in that case certainly I will contact you once we will need device(s) to 
+make the setup(s).
+   The project proposal itself is about water quality assessment and monitoring using UV absorption as 
+well as fluorescence.
+ 
+- Quantity: The setup may need 2 detectors, one for UV absorption and one for fluorescence, but 
+probably we may need to do a few versions of setups, so maybe a safer estimation of most probable 
+need would be a possible order of 6 pieces. However, this will not be for ALL the devices I inquired 
+about, but only for 2 or 3 of them which ultimately will be selected as optimal. Once the project will 
+be approved and the design clarified, I will contact you again when delivery will be needed.
+- Application:   Right now no application, only budget estimation for a project proposal. The 
+project proposal itself is about water quality assessment and monitoring using UV 
+absorption as well as fluorescence (see attached papers).
+- End User: NTU
+- End User Country: Singapore
+- End User Website: NTU/EEE website
+ 
+Since you mentioned you are also distributor for other companies I also am interested in the following 
+products, so I hope it is possible you can also give me quotation(s) for these products:
+3.	From Ocean Optics (which now is Ocean Insight – BTW your link is not correct: any browser I use 
+gives a warning that the site is not secure): the spectrometers STS-UV, STS-VIS and OCEAN-HDX-
+UV-VIS, including 2 coupling optical fibers and any necessary coupling lens & control/analysis 
+software if needed. 
+4.	From OTO Photonics: the UVvis-TEC spectrometer EagleEye model EE2063, Deuterium-Halogen 
+Light Source (LS-DH), and 2 optical fibers OF-600-100-UVS, again also with any necessary 
+coupling lens & control/analysis software if needed
+5.	From FireflySci: they have quartz flow cells and I am interested in a few. I would like to ask you 
+to please kindly give me the prices of the following flow cells (ALL made of UV quartz) in a 
+quotation: 
+o	48UV10
+o	501UV10
+o	A custom-made flow cell, as shown in the drawing in the first attached jpg image. The 
+dimensions are: L= 50 mm, W = 25 mm; H = 5?....8? mm. The wall thickness can be 
+chosen as dictated by the fabrication considerations. The H value will probably also be 
+dictated by manufacturing practical considerations, because the inside chamber will 
+have a height h = H-2t, where t is the thickness of the quartz material which obviously 
+cannot be reduced below a certain minimal value, which I am not sure what would be in 
+their case: 1.5 mm? If we assume 1.5 mm to be indeed the minimal quartz wall 
+thickness value then I believe that a minimal overall height of ~6…7 mm is feasible. As is 
+shown in the drawing, ideally we would like 3 of the lateral walls (all of which normally 
+would be smoothly polished and transparent) to be (after polishing) covered with an 
+UV-enhanced Al coating which can serve as a good quality mirror for both most of the 
+UV and visible ranges. For such mirrors usually the critical part is extending the 
+reflectivity in the UV, hence the indicated value of minimal reflectivity for the coating of 
+Rmin>80% @ the wavelength of 235 nm, because usually the reflectivity just gradually 
+increases at larger wavelengths and remains relatively high throughout the visible 
+range. The flow cell can be made either like a 501 type (i.e. with the inlet/outlet colinear 
+with the flow cell itself), or as a 48 type (i.e. the inlet/outlet will be normal onto one 
+facet, in this case obviously the non-covered facet, but in this case clearly the entire 
+length of the cell will need to be increased to include the size necessary for the inlet & 
+outlet themselves), which is considered to be best for manufacturing and assembly (see 
+next). Finally, the price in the quotation should be for a final product that should include 
+not just the custom flow cell but also its immediate fluidic connections to the inlet & 
+outlet. In other words, it should look similar to the item shown in the last attached jpg 
+image, i.e. it is better if they can do also do the coupling of inlet & outlet  to tubing 
+themselves so that we do not damage them or the delicate quartz flow cell and we can 
+easily use it directly and connect it to any other tubing as required (and this way the 
+inlet/outlet are also better protected during shipping & subsequent handling). The 
+dimensions (LWH) are not very critical. If it is considered that for handling and safety 
+considerations -e.g. for proper subsequent polishing without breaking it apart, and/or to 
+be able to properly screw tightly the metal connectors to the tubing at the end- at least 
+one of the initial sizes needs to be modified (e.g. H needs to be increased, say to a 
+minimal value of 9 mm), then sure, no problem.
+6.	From DOWA: I would like to know the prices for the following devices:
+o	UF1VL-1H321 & UF4VL-1H321
+o	308-FL-02-G02 & 340-FL-02-G02
+o	Do they have LEDs with emission at shorter wavelengths, e.g. 280 nm and 235 nm??
+ 
+Thank you very much for you time and consideration and I am looking forward for your feedback!
+               With best wishes,
+               Daniel
+ 
+From: philipong@hakuto.com.sg <philipong@hakuto.com.sg>  
+Sent: Tuesday, 3 August 2021 11:28 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: gregoryquek@hakuto.com.sg; kelvintee@hakuto.com.sg 
+Subject: NTU (EEE) / Hamamatsu inquiry
+ 
+Dear Daniel,
+ 
+Thank you for the interest for Hamamatsu’s products, I am glad to follow up from here. May I take this 
+opportunity to introduce Hakuto Singapore www.hakuto.com.sg. We are 100% Hakuto Japan 
+www.hakuto.co.jp owned Trading company and we are the authorized distributor of Hamamatsu 
+Photonics K.K.(HPK) products.
+ 
+As per of mandatory request by Japanese export control, user’s declaration is required before official 
+quotation. The reason is to avoid mass destructive weapon development. Please kindly provide the 
+following information highlighted in red as some of the customer overlooked and quotation was delayed 
+due to in sufficient information. We would also need your kind assistance to fill up the attached IEP form. 
+Do take note to provide us with reply on Question 5.5 (to provide an article written by yourself or anyone 
+from the same department relating to the application) in attached IEP form as some of the customer 
+overlooked and quotation was delayed due to in sufficient information.
+ 
+I apologise for any inconveniences caused as this is any requirement from all end user.
+ 
+- Model Number: S1227-1010BQ, S12698-02, S1337-21, S4114-46Q, S5973-01, S12271, S9295, S3477-
+04, S8553, S15249
+- Quantity: 
+- Application:   
+- End User: 
+- End User Country: 
+- End User Website: 
+ 
+In the meantime, we are also the authorized distributor of Various Major makers of Photonics companies 
+such as:
+*	Colorimeter / Spectrophometer / Biophotometer / TOC Analyzer / Microwave digestion
+o	3nh
+o	Metash
+*	Spectrometers
+o	Ocean Optics
+o	OTO Photonics
+*	Smell sensor
+o	Aryballe Technologies
+*	Spectral Sensors
+o	AMS
+*	Cuvettes
+o	FireflySci
+*	LEDs
+o	Dowa
+ 
+Looking forward to your information.
+ 
+Thank you.
+ 
+Regards,
+ 
+Philip Ong
+Chief Sales Engineer
+ 
+Hakuto Singapore Pte Ltd
+151 Lorong Chuan, #06-07A, Lobby G,
+New Tech Park Singapore 556741
+Tel: (65) 6745 8910 
+Email: philipong@hakuto.com.sg
+http://www.hakuto.com.sg
+ 
+ 
+-------------------------------------------------------------------- 
+[Inquiry] 
+-------------------------------------------------------------------- 
+Dear Lady/Sir, 
+My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical & Electronical 
+Engineering (EEE) of the Nanyang Technology University (NTU), Singapore. 
+I am now working on a project proposal for whose budget configuration I need to quickly 
+gather quotations for the required materials & consumables.  
+I would like to ask you to please kindly provide me a quotation with the costs for the 
+following products: 
+S1227-1010BQ 
+S12698-02 
+S1337-21 
+S4114-46Q 
+S5973-01 
+S12271 
+S9295 
+S3477-04 
+S8553 
+S15249 
+Please kindly also include in the quotation the cost of packaging & shipping. 
+              Thank you for your help and am looking forward for your quick feedback ! 
+              With best wishes, 
+              Poenar Daniel 
+ 
+ 
+-------------------------------------------------------------------- 
+[Customer Information] 
+-------------------------------------------------------------------- 
+Email?epdpuiu@ntu.edu.sg 
+First Name?Daniel 
+Last Name?Poenar 
+Organization name?NTU 
+Department?EEE School 
+Street?50 Nanyang Avenue 
+City? 
+State or province? 
+Postal/ZIP code? 
+Country?SG 
+Phone?+65 6790 4337 
+Fax?
+ 
+CONFIDENTIALITY: This email is intended solely for the person(s) named and may be confidential 
+and/or privileged. If you are not the intended recipient, please delete it, notify us and do not copy, use, or 
+disclose its contents.  
+Towards a sustainable earth: Print only when necessary. Thank you. 
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+This email has been scanned by the Symantec Email Security.cloud service. 
+For more information please visit http://www.symanteccloud.com 
+______________________________________________________________________

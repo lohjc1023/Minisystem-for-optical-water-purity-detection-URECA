@@ -1,0 +1,236 @@
+From:	WT-Rena <rena@wavelength-tech.com>
+Sent:	Tuesday, 29 June 2021 5:53 PM
+To:	Poenar Daniel Puiu (Assoc Prof)
+Cc:	'WT-Lizzy'
+Subject:	BJ502106290015 | RE: Inquiry about possible products
+Attachments:	BJ502106290015.pdf
+
+Dear Prof. Daniel,
+
+Good evening! Please check the attached quotation. 
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+Quote number:   (BJ502106290015). Terms of shipping: Ex-works Wavelength Opto-Electronic(S), Pte 
+Ltd. This quotation is valid for 30 days. This quotation is based on our general trading terms, a copy of 
+which is available on request. All items quoted as "stock" or "in stock" are subject to prior sale. 
+Minimum Order Value: SGD 1,000.00 / or a Handling Charge of SGD 80.00 per order.
+Sales Terms and Conditions: https://wavelength-oe.com/policies/
+
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+    
+Wavelength Opto-Electronic (S) Pte. Ltd
+Blk 2 Bukit Batok St. 24 #06-01 Skytech Building Singapore 659480
+Tel: (65) 6564 9624  ext 8912 
+WhatsApp: (65) 81825429
+
+Website:  wavelength-oe.com
+Social Media: Facebook ? LinkedIn  
+Laser Optics ? IR Optics ? UV & Vision Optics ? Lasers & Detectors ? Systems & Software
+
+=====================================================
+From: Poenar Daniel Puiu (Assoc Prof) [mailto:EPDPuiu@ntu.edu.sg]  
+Sent: Wednesday, 23 June 2021 5:49 pm 
+To: WT-Rena 
+Subject: RE: Inquiry about possible products
+
+OK, thanks, how about the other info, abt the filters and the linear arrays of SUR500XX if you have?
+               It would be best if you can put all in a single pdf quotation.
+               THank you!
+               Best wishes,
+               Daniel
+=====================================================
+From: WT-Rena <rena@wavelength-tech.com>  
+Sent: Wednesday, 23 June 2021 5:25 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Inquiry about possible products
+
+Dear Proft. Daniel,
+
+The price for SUR500T6 is 750.00 SGD.
+And SUR500T8 is 1230.00 SGD.
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+=====================================================
+From: Poenar Daniel Puiu (Assoc Prof) [mailto:EPDPuiu@ntu.edu.sg]  
+Sent: Wednesday, 23 June 2021 4:58 pm 
+To: WT-Rena 
+Subject: RE: Inquiry about possible products
+
+P.S.: Please double check IF you may have linear arrays with detectors with the characteristics of the 
+SUR500XX ??
+               Thank you!
+               Daniel
+=====================================================
+From: WT-Rena <rena@wavelength-tech.com>  
+Sent: Wednesday, 23 June 2021 4:52 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Inquiry about possible products
+
+Dear Prof. Daniel,
+
+The factory there said they can make the size what you want. How big you need?
+
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+   =====================================================
+From: Poenar Daniel Puiu (Assoc Prof) [mailto:EPDPuiu@ntu.edu.sg]  
+Sent: Wednesday, 23 June 2021 3:24 pm 
+To: WT-Rena 
+Subject: RE: Inquiry about possible products
+
+Whatever size you have available: if you have only 12 mm is OK. If you have bigger, like 25 x 25 mm is 
+better. For me, the bigger the better.
+               Thank you!
+               Daniel
+=====================================================
+From: WT-Rena <rena@wavelength-tech.com>  
+Sent: Wednesday, 23 June 2021 3:20 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: 'WT-Lizzy' <lizzy@wavelength-tech.com> 
+Subject: RE: Inquiry about possible products
+
+Dear Prof. Daniel,
+
+May I know what size of filter you need?
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+=====================================================
+From: Poenar Daniel Puiu (Assoc Prof) [mailto:EPDPuiu@ntu.edu.sg]  
+Sent: Tuesday, 22 June 2021 12:11 pm 
+To: WT-Rena 
+Cc: 'WT-Lizzy' 
+Subject: RE: Inquiry about possible products
+
+                                             Dear Ms. Rena,
+               Thank you for the info that you forwarded me. Let me quickly address each issue:
+1)	The Filter: Yes, the characteristic is very good. You can indicate in the quotation the minimal 
+number of pieces which you are required to have for an order. If you can put only 1 piece 
+then is OK; if you need to put e.g. 10 pieces then put 10 pieces (but of course indicate that 
+the cost is for 10 pieces and that that is your min. required order quantity).
+2)	The APD arrays are interesting but unfortunately they do not cover the UV-blue part, only 
+the visible + NIR. 
+               Instead, I would be much more interested in the SUR500XX series (see attached pdf). Although 
+it is not an array but a single APD, it does have a much enhanced response in the short-wavelength 
+regions.  For comparison of price please indicate in the quotation both SUR500T6 and SUR500T8. Again, 
+for each type you can indicate in the quotation the minimal number of pieces which you are required to 
+have for an order. If you can put only 1 piece then is OK; if you need to put e.g. 10 pieces then put 10 
+pieces (but of course indicate that the cost is for 10 pieces and that that is your min. required order 
+quantity).
+               If you do have an array with same characteristics as the SUR500XX then of course that would be 
+best and can quote that one instead.
+
+       Thank you very much and am looking forward for your quick feedback.
+       Best wishes,
+                      Daniel
+=====================================================
+From: WT-Rena <rena@wavelength-tech.com>  
+Sent: Friday, 18 June 2021 9:27 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: 'WT-Lizzy' <lizzy@wavelength-tech.com> 
+Subject: RE: Inquiry about possible products
+
+Dear Proft. Daniel,
+
+I attached the coating of the filters, do you think this coating is want you need? How many pieces filter 
+you need ? AOI is 0°.
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+=====================================================
+From: WT-Rena [mailto:rena@wavelength-tech.com]  
+Sent: Friday, 18 June 2021 9:17 am 
+To: 'Poenar Daniel Puiu (Assoc Prof)' 
+Cc: 'WT-Lizzy' 
+Subject: RE: Inquiry about possible products
+
+Dear Prof. Daniel,
+
+From the information in your request, one of our APD arrays would be the closest match here (data sheets attached). As your correctly observes, these do not perhaps give the broad wavelength range you ideally needs, but this is the closest match we have for now. There are three versions with different numbers of pixels. Please check.
+
+Because Laser components will not currently offer these with any kind of integrated filter, but we have some factory may offer these filters. I am checking with them.
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+=====================================================
+From: Poenar Daniel Puiu (Assoc Prof) [mailto:EPDPuiu@ntu.edu.sg]  
+Sent: Thursday, 17 June 2021 3:21 pm 
+To: WT-Rena 
+Cc: 'WT-Lizzy' 
+Subject: RE: Inquiry about possible products
+
+                              Dear Rena Ren,
+               Thank you for your reply. Let me make 2 clarifications. 
+       First, is that I required the info because I am now working at a project proposal and I need to: a) gather info about the elements which can be used in our system, and b) Get a quotation for the devices that can be useful so that I can build by project budget.
+       Second, As you can see  in my initial message below, I have asked a few technical Qs which have not been answered -esp. abt the APDs, namely their wavelength operational range and the wavelength of their responsivity peak -  which sort of puzzles me because I believe now you will have to bounce it back (again) to the main manufacturer.
+       So if you have the info/specs abt the filter and APDs, please kindly forward to me and also make up a quotation. If you may not have, or it could be with different specs, then please let me know what are the specs, for instance maybe you could have a photodetector/APD but which may work not in the initially indicated wavelength range of 230….400 nm but of , say, 255 to 380 nm. Then, of course, please share with me the info for the devices that you do have.
+                      Thank you and am looking forward for a quick feedback!
+                      Best wishes,       
+       Daniel
+=====================================================
+From: WT-Rena <rena@wavelength-tech.com>  
+Sent: Thursday, 17 June 2021 2:26 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: 'WT-Lizzy' <lizzy@wavelength-tech.com> 
+Subject: RE: Inquiry about possible products
+
+Dear Prof.Daniel,
+
+Good afternoon. This is Rena from Wavelength to assist you. We are the distributor of Laser component in Singapore. May I know do you still want to purchase these filters and APD?
+
+Should you need further assistance, please contact me freely.
+Have a nice day ahead.  :)
+
+Best Regards,
+Rena Ren
+Technical Sales Engineer
+=====================================================
+Von: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Gesendet: Montag, 7. Juni 2021 12:45 
+An: Rainer Franke <r.franke@lasercomponents.com>; Mike Hodges Dr. 
+<m.hodges@lasercomponents.com> 
+Betreff: Inquiry about possible products 
+Priorität: Hoch
+ 
+                                             Dear Lady/Sir,
+               My name is Poenar Daniel and I am an Assoc.Prof. in the EEE School of NTU, Singapore. 
+               Since on your website you have no info about your products and no transmission plots vs. wavelength, I would like to know if you have available or if it is possible for you to fabricate a UV-vis long-pass dichroic mirror, although maybe a more appropriate name would be edge filter because the ideal desired operation should be for an AOI of 0°, NOT 45° as is typical with normal applications for dichroic mirrors (e.g. in a filter cube). 
+               The specs for this filter are: high reflectivity (R>90%) in the UV (between 230 nm and 380 or 400 nm) and high transmissivity (T>90%)  in the visible range (between approx.380 or 400 nm and 750...780 nm).  If the latter is too tough (i.e. too difficult/impossible to reconcile both rejection & transmission windows requirements simultaneously), the vis range transmission window's long wavelength limit can 
+be reduced down to 600 nm or even 550 nm if really necessary.
+               If you have/can do it, then please kindly send me a quotation for it, including the cost of packaging & shipping.
+ 
+               I also saw o your website that you have APDs & APD linear arrays. In principle I am interested in those, too, but your products have a peak response at 850 nm and very little at 400 nm. What I want would be an APD linear array but with a spectral response much more similar to that of your CMOS APD but which is incorporated in a LiDAR IC. About this, I don’t understand why its spectral characteristic has been dissected in half, one can assume that (probably?) its spectral sensitivity peaks at 500 nm and that for the short wavelength half the spectral response would extend symmetrically down to UV, so assuming perfect symmetry, a photon detection efficiency of ~5% could probably be inferred at a wavelength of 200 nm?? (Though probably not …)
+               In any case, what I am looking for is an APD (or even better, an APD linear array) which I could use satisfactorily for both UV & vis (if there is such a thing). I think this could be possible if the spectral responsivity peaks at ~500 nm (or even a shorter wavelength, say 450 nm) and it is UV-enhanced so that it still could provide some output even at 235 nm. If you do have such a thing, please let me know (or 
+maybe another supplier ?)
+               Of course, another alternative is to use 2 different sensors, one for UV (from 230 nm up to ~400 nm) and one for vis (400 to 700 nm), but even then your APDs are not quite optimal because again their response increases with wavelength towards longer wavelengths, whereas I want the opposite (a peak at shorter wavelengths and then decrease for longer wavelengths).  I am not sure if you could have something like that but again, if you do have APDs for the 2 indicated ranges, please let me know.
+ 
+               Thank you for your help and am looking forward for your quick feedback !
+               With best wishes,
+               Poenar Daniel
+ 

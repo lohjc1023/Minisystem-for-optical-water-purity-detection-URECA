@@ -1,0 +1,155 @@
+From:	Poenar Daniel Puiu (Assoc Prof)
+Sent:	Tuesday, 8 June 2021 2:55 PM
+To:	Sin Hui Tong
+Subject:	RE: Edmund Optics: Sales Support : SG - 38350
+
+Importance:	High
+
+                                            Dear Sin Hui Tong,
+              It seems that the filter you showed is a good choice. In the Excel file, the meaning of the 
+columns B, C & D is “Average”, “s polarization” & “p polarization”, respectively? 
+      The dimension is still not very clear for our design but let’s consider the largest one, 25.2 x 
+35.6mm.
+      
+              Also, I am interested in a good mirror with very high R (>90%, if possible even >95% thigh this 
+may not be feasible practically? ??) in the UV, in the same range between 230 nm and 380 or400 nm, 
+while at the same time having reasonable reflectivity in the visible. 
+        Although the reflectivity of a dielectric mirror can be excellent and probably close to 99%, but 
+I don’t think a dielectric mirror can cover such a broad range (but maybe you double check and tell 
+me if I am wrong ??).
+        I think an enhanced Al mirror is the most feasible practical solution, like #33-913. So if 
+indeed there is no dielectric mirror that can cover the desired broad range, please include the #33-
+913 mirror in the quotation as well.
+        Actually, regarding this last one (#33-913) I have 2 more Qs:
+a)	What is the substrate?? It is not mentioned in your website… Is it fused silica? If 
+not, can it be made to be fused silica?
+b)	Can it be made as a convex mirror, not spherical, but cylindrical?
+If the answers to both the Qs above is “Yes”, then please also include it in the quotation 
+(together with the simple flat one, just for comparison).
+
+Thank you very much!
+              With best wishes,
+              Daniel
+
+From: Sin Hui Tong <shtong@edmundoptics.com.sg>  
+Sent: Tuesday, 8 June 2021 11:35 AM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Edmund Optics: Sales Support : SG - 38350
+
+Hi Daniel 
+
+Thank you for your reply
+
+Please take a look on this dichroic long pass filter:
+https://www.edmundoptics.com.sg/p/400nm-125-x-176mm-dichroic-longpass-filter/24141/ 
+
+I have attached the transmission/reflection of the part from 200nm, please refer to attached file.
+Kindly let us know if this is the part that you are looking for, the part come in dimension Dia 12.5mm, 
+12.5 x 17.6mm, Dia 25.0 and 25.2 x 35.6mm.
+
+Thank you 
+
+–————————————————
+Sin Hui, TONG |   Sales Engineer
+Edmund Optics Singapore Pte. Ltd. 
+p:  +65.6273.6644 ext. 5539   
+      
+The Future Depends on Optics
+–————————————————
+
+
+From: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg>  
+Sent: Monday, June 7, 2021 6:48 PM 
+To: Sin Hui Tong <shtong@edmundoptics.com.sg> 
+Subject: RE: Edmund Optics: Sales Support : SG - 38350
+
+[This message has originated from an external domain. Please do not open, download, or 
+view attachments if you do not know the sender.]
+ 
+                                            Dear Mr. Sin Hui Tong,
+              For the moment I am just building up the budget for a project proposal so the discussion is just 
+in principle.
+1)	Yes, can consider an amount of 30 pieces
+2)	Not sure, probably will be (IF the project twill be approved, of course!)
+3)	Fluorescent investigation of contaminants in water
+Hope this give you the required info.
+              Best wishes,       
+Daniel
+
+From: Sin Hui Tong <shtong@edmundoptics.com.sg>  
+Sent: Monday, 7 June 2021 6:10 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Subject: RE: Edmund Optics: Sales Support : SG - 38350
+
+Hi Daniel 
+
+Thank you for contacting Edmund Optics.
+
+Before we go into the detail of the specification, I would like to know more information from you
+1.	There will be minimum order quantity for all custom part. Normally it will be 25-30 pieces. Is 
+this acceptable?
+2.	Is this a one time order?
+3.	What is the application the part will go into?
+
+Please let us know more information before we can proceed.
+
+Thank you 
+
+–————————————————
+Sin Hui, TONG |   Sales Engineer
+Edmund Optics Singapore Pte. Ltd. 
+p:  +65.6273.6644 ext. 5539   
+      
+The Future Depends on Optics
+–————————————————
+
+
+From: eo-service@edmundoptics.com <eo-service@edmundoptics.com>  
+Sent: Monday, June 7, 2021 5:20 PM 
+To: Sales Support (EOSG) <sgsales@edmundoptics.com.sg> 
+Subject: Edmund Optics: Sales Support : SG - 38350
+
+Edmund Optics: Sales Support : SG - 38350
+Reason for Contact: 
+Sales Support
+Country: 
+Singapore
+First Name: 
+Daniel
+Last Name: 
+POENAR
+Company: 
+EEE School NTU
+Job Title: 
+Assoc.Prof.
+Phone Number: 
+67904237
+Ext: 
+
+Email Address: 
+epdpuiu@ntu.edu.sg
+Military/Defense Related?: 
+False
+Has Dual Use/Export Control items?: 
+False
+Comments: 
+Dear Lady/Sir, I am an Assoc.Prof. in the EEE School of 
+NTU. I wold like to know if you have avialble or if it is 
+possible for you to fabricate a UV-vis long-pass dichroic 
+mirror, although maybe a more appropriate name would be 
+edge filter because the ideal desired operation should be for 
+an AOI of 0°, NOT 45° as is typical with normal applications 
+for dichroic mirrors (e.g. in a filter cube). The specs for this 
+filter are: high reflectivity (R>90%) in the UV (between 230 
+nm and 380 or400 nm) and high transmissivity (T>90%) in 
+the visible range (between approx.380 or 400 nm and 
+750...780 nm). If the latter too tough, the vis range 
+transmission window's long limit wavelength can be reduced 
+down to 600 nm or even 550 nm if really necessary. If you 
+have/can do it, then please kindly send me quotation for it, 
+including the cost of packaging & shipping. Thank you for 
+your help and am looking forward for your quick feedback ! 
+With best wishes, Poenar Daniel
+Referring Page URL: 
+https://www.edmundoptics.com/f/dichroic-longpass-
+filters/14288/

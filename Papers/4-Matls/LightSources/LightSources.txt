@@ -1,0 +1,249 @@
+Our needed ranges: 220...240 nm; 275 nm; 340 (300...370) nm
+
+NEWPORT
+https://www.newport.com/c/laser-diode-modules
+	Shortest wavelength = 405 nm
+LPM405-95E      405 nm 95 mW  <0.5 x 0.7 mrad    $8,638.80 USD  
+----------------------------------------------------------------------------------
+THORLABS
+https://www.thorlabs.com/navigation.cfm?guide_id=2164
+L375P70MLD   UV Laser Diode 375 nm 70 mW 110/140 mA, has monitor PD, recommend our LDM56F(/M) TEC-cooled mount for driving this diode
+$4,758.07
+375 - 405 nm TO Can Laser Diodes: 375, 404, 405 nm
+L404P400M   Laser diode 404 nm    400 mW    370 mA 4.9 V    Divergence: 13° (1/e2) 42° (1/e2) Multimode Ø5.6 mm 
+$686.06
+
+LEDs (TO can):
+LED250J    250 nm    1 mW   FWHM=12 nm Viewing angle=7.5° 100 mA   >1000 hrs   TO-39 
+$399.69
+
+LED275J    275 nm    1 mW   FWHM=12 nm  Viewing angle=7.5° 100 mA   >1000 hrs   TO-39 
+$364.71
+
+LED310W   310 nm 1.5 mW   FWHM=15 nm  Viewing angle=57° 40 mA TO-39 
+$286.63
+
+LED340W  340 nm  1.7 mW   FWHM=9 nm  Viewing angle=57°   40 mA   TO-39 
+$286.63
+
+Deep UV Mounted LEDs (265 - 340 nm: 265, 275, 285, 300, 308, 325, 340)
+M275L4     275 nm    Ø30.5 mmHousing    Min./Typ. Out Power=45 mW/80 mW    FWHM=11 nm    Irrad.=0.8 µW/mm2   700 mA 7.3 V    Viewing angle=118°   Recommended Driver=DC2200 or LEDD1B
+$371.32
+
+M340L4     340 nm    Ø30.5 mm Housing   Min./Typ. Out Power=53 mW/60 mW    FWHM=11 nm    Irrad.=2.22 µW/mm2   700 mA 4.6 V  Viewing angle=110°    Recommended Driver=DC2200 or LEDD1B
+$312.73
+
+SLEDs: 405, 450, 635, 650 nm, all 10 mW
+https://www.thorlabs.com/navigation.cfm?guide_id=2571
+SLD405T   405 nm    10 mW    110 mA   3 dB bandwidth =4 nm 
+$1,388
+
+----------------------------------------------------------------------------------
+LASER21
+Under CW solid state lasers: OBIS Lasers & OBIS FP (Fibre-Pigtailed)	http://laser-21.com/cw-solid-state-lasers-267567657/obis-lasers-obis-fp-fibre-pigtailed/
+OBIS 349XT   348.8 nm  Power=20, 60, 100 mW
+
+Their "coherent surces" & "Incoherent sources" links go to Thorlabs!
+-------------------------------------------------------------------------------------
+CVI Laser Optics and Melles Griot - Singapore
+Melles Griot SP, Pts, Ltd.
+ 18 Boon Lay Way
+09-97/98 Trade Hub 21  
+609966 Singapore
+Tel.: +65 6763 6633  FAX +65 6765 8070 
+Email:
+ www.cvilaseroptics.com 
+CVI Laser Optics, an Idex Optics and Photonics (IOP) platform brand, has appointed Laser21 as the sole distributor of its optics products in Singapore
+-------------------------------------------------------------------------------------------
+RS
+https://sg.rs-online.com/web/c/displays-optoelectronics/leds-led-accessories/uv-leds/?applied-dimensions=4294965957
+NVSU233A-U365 Nichia, UV LED, 365 nm   1030 mW 110 °, 2-Pin Surface Mount package
+S$82.64
+
+NCSU275T- U365 Nichia, UV LED, 385 nm  370 mW 120 °, 2-Pin Surface Mount package
+S$22.44
+
+NSSU100DT Nichia, UV LED, 375 nm   9.9 mW 110 °, 2-Pin Surface Mount package
+S$10.99
+	
+NSSU123T Nichia, UV LED, 375 nm   17.6 mW 125 °, 2-Pin Surface Mount package
+ S$9.37
+
+UV5TZ-405-30 Bivar, UV LED, 405nm 40mW 30 °, 2-Pin Through Hole package
+S$3.215
+
+UV3TZ-390-30 Bivar, UV LED, 390nm 40mW 30 °, 2-Pin Through Hole package
+S$3.86
+
+UV5TZ-400-30 Bivar, UV LED, 400nm 40mW 30 °, 2-Pin Through Hole package
+S$3.15
+----------------------------------------------------------------------------------------
+Nichia - laser diodes
+https://www.nichia.co.jp/en/product/laser.html
+Monomode:
+	NDU4116   370-380 nm   70 mW
+	NDU4316   390-400 nm   120 mW
+Multimode:
+	NDU 7216   370-380 nm   200 mW
+	NDU7375    370-380 nm   400 mW
+	NDV7118    400-405 nm   600 mW
+AR coated LD (For External Cavity Laser with Low Reflection Coating on front facet)
+	NDUA116T   390-405 nm   20 mW
+	NDVA111T   400-410 nm   45 mW
+UV-LEDs - surface mount type!
+	NCSU434A   280 nm   17.5 mW
+	NCSU334B    280 nm   70 mW 
+	NCSU033C	NCSU034C	NCSU035C
+	365 nm & 750 mW	385 nm & 830 mW	405 nm & 770 mW
+	NVSU233B: 365 nm & 1.45 W,   385 nm & 1.73 W	395 nm & 1.65 W,  405 nm & 1,4 W
+	NVSU233B-D4:  same as above, but has domed lens on it
+	NWSU333B: 365 nm & 4.9 W,  also  385 nm & 5.5 W
+	NVSU333A:   405 nm & 4.64 W
+	NVSU279A:   385 nm & 1.65 W	395 nm & 1.65 W	405 nm & 1.6 W
+ 	NCSU276C (domed lens):   365 nm & 1.05 W
+	NVSU119C  (domed lens):
+	375 nm & 1.16 W	385 nm & 1.45 W	395 nm & 1.45 W	405 nm & 1.42 W
+	NVSU219C  (domed lens):	405 nm & 1.42 W
+	NSSU123:	375 nm & 17.6 mW
+	NSSU100C: 365 nm & 4.8 mW
+	NSSU100D: 375 nm & 9.9 mW
+
+	NSPU510CS: 375 nm & 15.1 mW - normal transparent plastic type with 2 leads
+	NSHU551C:   365 nm & 5.4 mW	   375 nm & 9.9 mW - can (TO) packgg - directivity of 110 deg
+	NSHU591C:  365 nm & 4 mW	   375 nm & 9 mW - can (TO) packgg but much better directivity of 10 deg
+
+The 235 nm deep UV-LED used for absorbance detection was provided by Crystal IS (Green Island,NY, USA).
+A UVC photodiode (TOCON C1) with integrated amplifier employed for photodetection was purchased from Sglux GmbH
+(Berlin, Germany)
+
+---------------------------------------------------------------------------------------------
+TaoYuan Electron (HK) Limited
+https://www.ledwv.com/uv/uvc-leds-c-31.html?zenid=637h33qd053fllifk9s507rtj5
+UVC-LEDs
+	UVC LED 3535 SMD 275 nm 5-8 mW
+	UVC LED 275 nm 10-18 mW F20 mm
+	275 nm 1-2 mW  TY-UV275-TO39HS-A
+	UVC LED 255/265 nm TO39 = 255 nm & 265 nm   1-2 mW  TY-TO-039-255 & TY-TO-039-265 
+	UVC LED 255/265/275/285/310 nm TO39 1...2 mW
+	UVC LED 6868 = 275-280nm 90-110mW recommended to use copper-based circuit board, water cooling
+	UVC-LED 275nm, 1...1.5 mW  SMD
+UV LED Sterilizer Strip 275nm 20...30 mW 60X20mm TY-UV275-5-A-60mm
+UV LED Sterilizer Strip 265-280nm 20...30 mW USB 5V
+----------------------------------------------------------------------------------------
+The 235 nm deep UV-LED was obtained from Crystal IS (Green Island, NY, USA).
+https://cisuvc.com/
+Deep UV LEDs (230 nm to 280 nm) for absorption and fluorescence spectroscopy
+
+https://cisuvc.com/products
+
+Optan Ball Lens Series UVC LEDs 250 nm to 275 nm:
+Peak wavelengths in 5 nm increments, from 250 nm to 275 nm: 250, 255, 260, 265, 270, 275.
+Up to 5mW optical power output @ 100mA
+Center wavelength tolerance <±5 nm
+15° viewing angle
+
+Klaran WD Series UVC LEDs 260 to 270 nm 
+Available in multiple power output bins (>80 mW, >70 mW, >60 mW, >50 mW)
+3.5 mm x 3.5 mm Surface Mount Diode (SMD) package
+
+Optan Surface Mount Series UVC LEDs 255 nm and 275 nm 
+Up to 8 mW optical power output @ 100mA
+11 nm Full Width Half Max spectrum
+
+https://www.optanled.com/products/optan-235-nm
+Optan 235 nm is a surface mount UVC LED with a peak wavelength of 235 nm.
+Output Power at 20 mA (max. current): 50 µW - 500 µW 
+Peak Wavelength:  230 - 238 nm (including 235 nm)
+Viewing Angle:  120° (Lambertian radiation pattern) 
+
+
+			Dear Lady/Sir,
+	My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical & Electronical Engineering (EEE) of the Nanyang Technology University (NTU), Singapore.
+	I am now working on a project proposal regarding spectroscopic & fluorescent analysis of trace contaminants in water and I found in literature two papers which clearly indicate you as manufacturer & supplier of 235 nm LEDs. I looked on your website, and although under your 1st company page the "Deep UV LEDs (230 nm to 280 nm) for absorption and fluorescence spectroscopy" are indeed clearly indicated under "Spectroscopy", I couldn't find anything about a 230 or 235 nm LED on your company website. Only after a lot of extensive browsing I could finally find, thru your link to the Optanled website, the reference to the Optan 235 nm LED, although there is no datasheet (and some of the info is not clear, e.g. "Output Power at 20 mA (max. current): 50 µW - 500 µW" which is difficult to understand how it can be in such a large range. I presume that this is actually the power range for the min.-max. injection current?).
+	In any case, I am very interested in this product as well as a few others. Specifically, I an interested in LEDs with peak emission wavelengths of
+	 230 nm (or 235, if 230 is not available):
+	275 nm, and
+	340 or 350 nm, though (unfortunately) I did not see any such LED produced by you in the entire website. If you do have please let me know and also include it in the quotation (see below).
+	For our desired type of optical setup a very narrow bandwidth for the UV light emission is not quite desired (although this may seem a bit counterintuitive), I would rather a rather broader-than-usual spectrum but slightly more output power. More critical is the angle of emission, which ideally we would like to be small. This is why a SMD type of device is not main favourite as it obviously would require more additional optics (of course further focusing is encesary but for SMD it would be even larger and more voluminous and -given the special material for UV -clearly mroe expensive). This is why initially we were looking for "normal" looking type of LEDs, though it seems is not always possible...
+	I would be grateful if you could kindly provide me via e-mail with the necessary info (e.g. the datasheet which couldn't find) & a quotation for the price of products that you do have available from those listed above, hopefully for other format (like the Ball Lens Series) instead of SMD. If not available in other format, then of course please kindly give the info for the format that you do have available.
+	Thank you for your time and consideration, and am loking forward for your quick feedback!
+	With best wishes,
+	Poenar Daniel
+----------------------------------------------------------------------------------------
+https://www.irtronix.com/shop?Selection=UV-C
+LED strips
+----------------------------------------------------------------------------------------
+https://www.neumueller.com/download/UV-Technologie_en.pdf
+----------------------------------------------------------------------------------------
+https://www.bioraytron.com.tw/en/product.php
+265-278 nm  3-13 mW; 1.5...10 mW
+278-285 nm   2...10 mW
+----------------------------------------------------------------------------------------
+https://www.suntechleds.com/regular-led-strip/uv-led-strip-light/far-uvc-led-light-207-220nm-222nm-far-uv-led.html
+SMD 225 nm LED 2.2 mW
+
+https://www.suntechleds.com/regular-led-strip/uv-led-strip-light/250nm-254nm-255nm-260nm-uvc-led-chip-strip.html
+SMD 255 nm LED 10 mW (actually the curve shows peak wavelength at ~258 nm)
+
+https://www.suntechleds.com/far-uvc-lamp-light/
+Far UVC 222nm LED Tube Light: 222nm Excimer tube ITEMS 10w size of bulb: 15mm(diameter) * 115mm(length)
+
+			Dear Lady/Sir,
+	My name is Poenar Daniel and I am an Assoc. Prof. in the School of Electrical & Electronical Engineering (EEE) of the Nanyang Technology University (NTU), Singapore.
+	I would like to request for a quotation for your 225 and 255 nm UVC LED chips. If you also have UV LED chips with peak emission wavelength at 275 nm and 340 nm, please include them in the quotation as well. Also please add the cost for the shipment.
+	Thank you for your time and consideration, and am looking forward for your quick feedback with the quotation!
+	With best wishes,
+	Poenar Daniel
+----------------------------------------------------------------------------------------
+Shenzhen Guangmai Electronics	https://www.szgm-led.com/
+
+3030 LED Series-3030UVC (SMD?): 260-280 nm 2-4 mW
+4040 LED Series-4040 UVC (SMD domed): 260-280 nm 2-4 mW
+2835 LED Series-2835 UVA (SMD?):  395-400 nm 0.5 W
+3535 LED Series-3535 UVA Quartz Lens (SMD domed): 395-400 nm/400-405 nm  0.6...0.8 up to 1.6...1.8 W
+6868 LED Series-6868 UVA (SMD domed): 390-395 nm/395-400 nm  1.5...2.W up to 3.5...4 W
+5050 LED Series-5050 UVA (SMD domed): 390-400 nm   2...2.5 W
+----------------------------------------------------------------------------------------
+https://www.beck-elektronik.de/en/products/leds/specialty-led/
+https://www.beck-elektronik.de/en/products/leds/specialty-led/uvc-led/?gclid=EAIaIQobChMIm5aLx6Hs8AIVTDVyCh0bdQO0EAMYAiAAEgKLQ_D_BwE
+270; 275; 280 nm - 2.6...135 mW
+365; 385; 395; 405 nm - 13 mW... 11 W
+----------------------------------------------------------------------------------------
+https://www.digitallightlab.com/uv-c-disinfection-systems/
+
+Digital Light Lab’s AccuCure ULM-6 Spot https://www.digitallightlab.com/ulm-6/
+Available Wavelengths: 265, 285, 310, 365, 385, 395, 405, 420, 435, 445, 455, 470 nm, and other wavelengths
+Aperture: 24 mm divergent; contin. or pulse mode
+
+
+
+----------------------------------------------------------------------------------------
+Bolb Co	https://www.bolb.co/	265 & 275 nm - stripes of SMD LEDs
+----------------------------------------------------------------------------------------
+http://www.crystalaser.com/new/uv-laser.html	but although small, theirs are not diode lasers
+Wavelengths of the Q-switched lasers (nm): 262, 266, 349, 351, 355, 438,...
+True CW Ultra-Violet (UV) laser at 375 nm up to 25 mW, single longitudinal mode 
+
+ArF excimer lasers: 151 nm, 193 nm.  Krf excimer laser: 248 nm
+
+https://www.ape-berlin.de/en/
+Have 190 nm laser
+
+https://www.opsytec.com/products/uv-led-light-sources
+The wavelengths of 365, 385, 395, 405, and 445 nm are available for different applications
+Also have UV sensors but very bulky
+
+From papers:
+
+LED (YCL-UV360-370, ShenZhen YuanChuang Electronic Co. Ltd., China) 12 mW at 365 nm. We drive the LED intensity with a style of pseudo random sequence modulation 
+[FluorescDetectAqueousAmmoniaAgric]
+
+deep-UV AlGaN LEDs, developed by Sensor Electronic Technology, Inc. (SETI, Columbia, SC, USA)
+[FluorescDetectPhaseShiftUV-LEDfreqModulOptimiz]
+
+A blue laser diode (Osram Opto Semiconductors GmbH) at 450 nm with a FWHM spectral width 2 nm was selected for its low power consumption and low cost. This blue laser diode consumes 0.53W to generate a 80 mW radiant flux.
+[FluoromtrPortableMiniaturizIntegrSphere]
+
+aUVLED (T9H28C from Roithner Lasertechnik GmbH, Austria) with peak emission at 280 nm, spectral
+half width of 15 nm, optical power 441–520 microW, TO-39 package with hemispherical lens (view angle 2theta1/2 =15?)
+[FiberEvanescWaveAbsorbUV280nmBiosens]

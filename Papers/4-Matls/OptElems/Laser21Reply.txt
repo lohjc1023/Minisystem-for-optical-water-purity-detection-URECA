@@ -1,0 +1,70 @@
+From:	Poenar Daniel Puiu (Assoc Prof)
+Sent:	Tuesday, 8 June 2021 4:40 PM
+To:	'Sansan Low'
+Cc:	'Dennis Wee'
+Subject:	RE: Inquiry about possible product
+
+Importance:	High
+
+                                             Dear Mr. Sansan Low,
+               Thank you for your reply! For the moment I am building the budget for a project proposal, but for the start you can consider the minimal nr. of pieces required by you for the quotation. If 1 piece is enough, very good. If you need 10 pcs. as min. amount then consider that instead (but, of course, please also indicate in the quotation that the prices you quoted is for 10 pcs.)
+       The dimension of the filter is still not very clear for our design but let’s consider a large one, e.g. 25.1 x 25.1 mm or whatever you have that is the closest.
+      
+      For the project I would also be interested in a few other things, if you have available:
+      
+1)	Also, I am interested in a good mirror with very high R (>90%, if possible even >95% though this may not be feasible practically? ??) in the UV, in the same range between 230 nm and 380 or400 nm, while at the same time having reasonable reflectivity in the visible. 
+        Although the reflectivity of a dielectric mirror can be excellent and probably close to 99%, but I don’t think a dielectric mirror can cover such a broad range (but maybe you double check your product range and tell me if I am wrong ??).
+        I think an enhanced Al mirror is the most feasible practical solution, like the “PAUV” mirror produced by CVI-LaserOptics. So if indeed there is no dielectric mirror that can cover the desired broad range, please include this mirror (PAUV-SQM-1025-C) in the quotation as well.
+        Actually, regarding this last one (PAUV-SQM-1025-C) I have 2 more Qs:
+a)	Can it be made on fused silica substrate instead of BK7?
+b)	Can it be made as a convex mirror, not spherical, but cylindrical? In this case the height would be probably around 3…5 mm and the length (along the axis of the cylinder, in the direction normal onto page) 60…70 mm or something like that.
+If the answers to both the Qs above is “Yes”, then please also include the last one in the 
+quotation (together with the simple PAUV flat one, just for comparison).
+
+2)	Bundle of multimode fibers: 
+a.	one with very good transmission in UV (again, in the same range between 230 nm and 380 or400 nm)
+b.	one with very good transmission in the visible range (between approx.380 or 400 nm  and   750...780 nm)
+
+3)	Some focusing lenses, again for the same two ranges listed above (UV + vis)
+
+4)	Detectors for the two indicated ranges. For vis probably can use a line array of APDs, but for UV it is much more problematic. Ideally, it would be excellent if I could find a line array of APDs operating at such short wavelengths (or at least with their peak response at ~400 nm or 450 nm), but as far as I know they usually peak their responsivity at ~800 nm, which is way too far away for me. OF course, a separate discrete/stand-alone detector optimized for each range can be considered, including PMTs, although those are bulky and very expensive.
+
+Thank you very much!
+              With best wishes,
+              Daniel
+
+
+From: Sansan Low <sansan.low@laser-21.com>  
+Sent: Tuesday, 8 June 2021 3:55 PM 
+To: Poenar Daniel Puiu (Assoc Prof) <EPDPuiu@ntu.edu.sg> 
+Cc: 'Dennis Wee' <dennis.wee@laser-21.com> 
+Subject: FW: Inquiry about possible product
+
+Dear Dr Poenar,
+
+Good day.
+I am San San from Laser 21.
+I will check with factory if customisation is possible,
+May we know how many pcs needed?
+Thanks
+
+** Lead times for out-of-stock items may be longer than usual due to supply chain disruptions resulting from COVID-19.
+
+Best regards,
+San San
+Sales Engineer 
+
+
+
+From: Poenar Daniel Puiu (Assoc Prof) [mailto:EPDPuiu@ntu.edu.sg]  
+Sent: Tuesday, 8 June 2021 1:56 PM 
+To: sales@laser-21.com 
+Subject: Inquiry about possible product
+
+                                             Dear Lady/Sir,
+               I am an Assoc.Prof. in the EEE School of NTU of Singapore. I would like to know if you have available or if it is possible for you to fabricate a UV-vis long-pass dichroic mirror, although maybe a more appropriate name would be edge filter because the ideal desired operation should be for an AOI of 0°, NOT 45° as is typical with normal applications for dichroic mirrors (e.g. in a filter cube).
+               The specs for this filter are: high reflectivity (R>90%) in the UV (between 230 nm   and  380 or400 nm) and high transmissivity (T>90%)  in the visible range (between approx.380 or 400 nm  and   750...780 nm).  If the latter too tough, the vis range transmission window's long wavelength limit can be reduced down to 600 nm or even 550 nm if really necessary.
+               If you have it/can do it, then please kindly send me quotation for it, including the cost of packaging & shipping.
+               Thank you for your help and am looking forward for your quick feedback !
+               With best wishes,
+               Poenar Daniel

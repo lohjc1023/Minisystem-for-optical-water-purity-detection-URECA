@@ -1,0 +1,12 @@
+EDMUND:
+25.4 x 25.4mm x 50mm FL, UV-VIS Laser Grade PCX Cylinder Lens
+https://www.edmundoptics.com.sg/p/254-x-254mm-x-50mm-fl-uv-vis-beam-shaping-fused-silica-cylinder-lens/37124/
+Stock #36-108	Qty 1-5: S$240.25	Qty 6+: S$192.20
+Cylinder Lens, Plano-Convex, Substrate: UV Grade Fused Silica
+Coating Specification: Rabs =1.0% @ 350 - 450nm; Ravg =1.5% @ 250 - 700nm
+
+25.4 x 25.4mm x 50mm FL, VIS 0° Laser Grade PCX Cylinder Lens
+https://www.edmundoptics.com.sg/p/254-x-254mm-x-50mm-fl-vis-0deg-beam-shaping-fused-silica-cylinder-lens/37131/
+Stock #36-099	Qty 1-5: S$240.25	Qty 6+: S$192.20
+Cylinder Lens, Plano-Convex, Substrate: UV Grade Fused Silica
+Coating Specification: Ravg =0.4% @ 425 - 675nm = Cotaing: VIS 0° (425-675 nm)
